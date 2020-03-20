@@ -1,7 +1,7 @@
 '''
 @Author: Ma Tengfei
 @Date: 2020-03-16 21:33:33
-@LastEditTime: 2020-03-20 20:33:35
+@LastEditTime: 2020-03-20 20:42:46
 @LastEditors: Please set LastEditors
 @Description: In User Settings Edit
 @FilePath: \data process\httputil.py
@@ -547,6 +547,57 @@ def get_drugs_info(filename):
         db[d['drugbank_id'].strip()]=temp
     return db
 
+def generate_dti_examples(fastafile,druginfo_file,save_path,filename,savetype='csv'):
+    import pandas as pd
+    filename='{}/{}'.format(save_path,filename)
+    file=open('drug_target_examples.csv','w',newline='')
+    db=drug_info(druginfo_file)
+    targets=dict()
+    target_seq=dict()
+    drug_set=set()
+    pos_pair=set()
+    pairs=list()
+    print('----begin----')
+    with open(filename,'r') as f:
+        for seq in SeqIO.parse(f,'fasta'):
+            temp=dict()
+            temp['Target ID']=seq.id.split('|')[-1]
+            targets[temp['Target ID']]=0
+            temp['Sequence']=seq.seq
+            target_seq[temp['Target ID']]=seq.seq
+            p=re.compile(r'[(](.*?)[)]',re.S)  #贪婪匹配括号里的内容
+            drugs=re.findall(p,seq.description)[-1]
+            drugs_s=drugs.split(';')
+            for drug_id in drugs_s:
+                drug_id=drug_id.strip()
+                pos_pair.add((seq.seq,drug_id))
+                drug_set.add(drug_id)
+                temp['Drug ID']=drug_id
+                if pd.isnull(db[drug_id]['smiles']):
+                    continue
+                temp['SMILES']=db[drug_id]['smiles']
+                targets[temp['Target ID']]+=1
+                temp['Label']=1
+                pairs.append(temp)
+    print('----ending----')
+    drug_list=list(drug_set)
+    for t in targets:
+        temp=dict()
+        temp['Target ID']=t
+        temp['Sequence']=target_seq[t]
+        
+        for i in range(targets[t]):
+            
+            d=random.choice(drug_list)
+            while (t,d) in pos_pair or pd.isnull(db[d]['smiles']):
+                d=random.choice(drug_list)
+            
+            pos_pair.add((t,d))
+            temp['Drug ID']=d
+            temp['Label']=0
+            temp['SMILES']=db[d]['smiles']
+            pairs.append(temp)
+    print('----ending----')
 
 if __name__ == "__main__":
     log = logger('logs')
