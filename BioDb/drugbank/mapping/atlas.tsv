@@ -1,0 +1,859 @@
+drugbank_id	atlas_id
+DB00091	ciclosporin
+DB00091	cyclosporin A
+DB00091	cyclosporine A
+DB00130	glutamine
+DB00131	adenosine monophosphate
+DB00133	D-serine
+DB00134	methionine
+DB00136	1,25-dihydroxyvitamin D3
+DB00136	1alpha,25-Dihydroxyvitamin D3
+DB00143	glutathione
+DB00148	creatine
+DB00151	cysteine
+DB00159	eicosapantaenoic acid
+DB00162	vitamin A
+DB00163	alpha-tocopherol
+DB00163	vitamin E
+DB00172	L-proline
+DB00179	nordihydroguaiaretic acid
+DB00184	nicotine
+DB00188	bortezomib
+DB00197	troglitazone
+DB00200	Distilled Water
+DB00200	water
+DB00200	water (vehicle)
+DB00201	caffeine
+DB00208	ticlopidine
+DB00244	mesalazine
+DB00252	phenytoin
+DB00254	doxycycline
+DB00254	mibolerone and doxycycline
+DB00255	diethylstilbestrol
+DB00257	clotrimazole
+DB00264	metoprolol
+DB00273	topiramate
+DB00275	olmesartan
+DB00277	theophylline
+DB00279	triiodothyronine
+DB00280	disopyramide
+DB00290	bleomycin
+DB00301	flucloxacillin
+DB00305	mitomycin C
+DB00307	targretin
+DB00313	valproic acid
+DB00316	acetaminophen
+DB00316	paracetamol
+DB00317	gefitinib
+DB00321	amitriptyline
+DB00328	indometacin
+DB00328	indomethacin
+DB00330	ethambutol
+DB00331	metformin
+DB00334	olanzapine
+DB00336	nitrofurazone
+DB00343	diltiazem
+DB00347	trimethadione
+DB00352	tioguanine
+DB00358	mefloquine
+DB00360	tetrahydrobiopterin
+DB00363	clozapine
+DB00364	Distilled Water
+DB00364	water
+DB00364	water (vehicle)
+DB00379	mexiletine
+DB00382	tacrine
+DB00384	triamterene
+DB00391	sulpiride
+DB00396	progesterone
+DB00398	BAY-43-9006
+DB00400	griseofulvin
+DB00403	caerulein
+DB00412	rosiglitazone
+DB00412	rosiglitazone + carboplatin
+DB00412	rosiglitazone and AGN193109
+DB00428	streptozotocin
+DB00433	prochlorperazine
+DB00437	allopurinol
+DB00443	dexamethasone
+DB00445	doxorubicin
+DB00446	chloramphenicol
+DB00456	cephalothin
+DB00457	prazosin
+DB00458	imipramine
+DB00468	quinidine
+DB00477	chlorpromazine
+DB00481	raloxifene
+DB00482	celecoxib
+DB00499	flutamide
+DB00501	cimetidine
+DB00502	haloperidol
+DB00515	ammonium
+DB00515	chloride
+DB00523	13-cis retinoic acid
+DB00523	9-cis retinoic-acid
+DB00523	all-trans retinoic acid
+DB00523	dexamethasone and retinoic acid
+DB00523	retinoic acid
+DB00523	tretinoin
+DB00531	cyclophosphamide
+DB00533	rofecoxib
+DB00534	chloride
+DB00537	ciprofloxacin
+DB00541	vincristine
+DB00544	5-fluorouracil
+DB00544	5-fluourouracil
+DB00550	propylthiouracil
+DB00557	hydroxyzine
+DB00563	methotrexate
+DB00564	carbamazepine
+DB00584	enalapril
+DB00586	diclofenac
+DB00598	labetalol
+DB00603	estradiol and medroxy progesterone acetate
+DB00605	sulindac
+DB00609	ethionamide
+DB00619	imatinib
+DB00619	imatinib mesylate
+DB00623	fluphenazine
+DB00624	testosterone
+DB00627	nicotinic acid
+DB00630	alendronate
+DB00636	clofibrate
+DB00641	simvastatin
+DB00653	sulfate
+DB00661	dexverapamil
+DB00661	verapamil
+DB00672	chlorpropamide
+DB00675	tamoxifen
+DB00679	thioridazine
+DB00687	fludrocortisone
+DB00692	phentolamine
+DB00695	furosemide
+DB00698	nitrofurantoin
+DB00715	paroxetine
+DB00722	lisinopril
+DB00736	omeprazole
+DB00738	pentamidine
+DB00741	cortisol
+DB00741	hydrocortisone
+DB00742	mannitol
+DB00746	DFO
+DB00746	deferoxamine
+DB00747	scopolamine
+DB00753	isoflurane
+DB00755	13-cis retinoic acid
+DB00755	9-cis retinoic-acid
+DB00755	all-trans retinoic acid
+DB00755	dexamethasone and retinoic acid
+DB00755	retinoic acid
+DB00755	tretinoin
+DB00759	tetracycline
+DB00761	KCl
+DB00761	chloride
+DB00763	methimazole
+DB00772	Malathion
+DB00773	etoposide
+DB00783	17-beta-estradiol
+DB00783	17beta-estradiol
+DB00783	alpha-estradiol
+DB00783	beta-estradiol
+DB00783	estradiol
+DB00784	mefenamic acid
+DB00788	naproxen
+DB00792	tripelennamine
+DB00795	sulfasalazine
+DB00798	gentamicin
+DB00811	Ribavirin
+DB00812	phenylbutazone
+DB00814	meloxicam
+DB00818	baseline propofol
+DB00818	propofol
+DB00819	acetazolamide
+DB00822	disulfiram
+DB00829	diazepam
+DB00831	trifluoperazine
+DB00857	terbinafine
+DB00859	D-penicillamine
+DB00859	penicillamine
+DB00860	prednisolone
+DB00863	ranitidine
+DB00864	tacrolimus
+DB00877	rapamycin
+DB00877	sirolimus
+DB00884	risedronate
+DB00897	triazolam
+DB00898	alcohol
+DB00898	ethanol
+DB00908	quinidine
+DB00914	phenformin
+DB00927	famotidine
+DB00936	salicylic acid
+DB00945	acetylsalicylic acid
+DB00945	aspirin
+DB00947	fulvestrant
+DB00951	isoniazid
+DB00958	ammonium
+DB00959	methylprednisolone
+DB00968	methyldopa
+DB00970	Actinomycin D
+DB00974	EDTA
+DB00977	17 alpha-ethynylestradiol (EE2)
+DB00977	17-alpha-ethynylestradiol
+DB00977	17a-ethynylestradiol
+DB00977	ethinylestradiol
+DB00982	13-cis retinoic acid
+DB00982	9-cis retinoic-acid
+DB00982	all-trans retinoic acid
+DB00982	dexamethasone and retinoic acid
+DB00982	retinoic acid
+DB00982	tretinoin
+DB00987	Ara-C
+DB00987	cytarabine
+DB00988	dopamine
+DB00990	exemestane
+DB00991	oxaprozin
+DB00993	azathioprine
+DB00997	doxorubicin
+DB01005	hydroxyurea
+DB01023	felodipine
+DB01026	ketoconazole
+DB01033	mercaptopurine
+DB01041	thalidomide
+DB01045	rifampicin
+DB01050	ibuprofen
+DB01051	novobiocin
+DB01053	Penicillin G
+DB01054	nitrendipine
+DB01058	Praziquantel
+DB01060	amoxicillin
+DB01067	glipizide
+DB01067	glipizide + metformin
+DB01069	promethazine
+DB01074	perhexiline
+DB01076	atorvastatin
+DB01088	iloprost
+DB01093	DMSO
+DB01093	DMSO control
+DB01093	dimethyl sulfoxide
+DB01113	papaverine
+DB01114	chlorpheniramine
+DB01115	nifedipine
+DB01118	amiodarone
+DB01124	tolbutamide
+DB01128	bicalutamide
+DB01132	pioglitazone
+DB01142	adapin
+DB01159	halothane
+DB01160	prostaglandin F2alpha
+DB01164	1 millimolar CaCl2 +
+DB01164	12.5mM CaCl2
+DB01164	CaCl2
+DB01164	chloride
+DB01169	arsenic oxide
+DB01169	arsenic trioxide
+DB01174	phenobarbital
+DB01178	chlormezanone
+DB01197	captopril
+DB01202	levetiracetam
+DB01206	lomustine
+DB01219	dantrolene
+DB01223	theophylline
+DB01229	paclitaxel
+DB01230	pemoline
+DB01234	dexamethasone
+DB01236	baseline sevoflurane
+DB01236	sevoflurane
+DB01241	gemfibrozil
+DB01242	clomipramine
+DB01254	Dasatinib
+DB01259	lapatinib
+DB01262	2'-deoxy-5-azacytidine
+DB01262	5-aza-2'-deoxycytidine
+DB01262	5-aza-2'-deoxycytidine + trichostatin A
+DB01262	5-aza-2-deoxycytidine
+DB01262	decitabine
+DB01262	trichostatin A;5-aza-2'-deoxycytidine
+DB01294	Distilled Water
+DB01294	salicylic acid
+DB01294	water
+DB01294	water (vehicle)
+DB01296	glucosamine
+DB01296	glucosamine,
+DB01296	glucosamine, steady state
+DB01346	phenobarbital
+DB01346	quinidine
+DB01375	Distilled Water
+DB01375	water
+DB01375	water (vehicle)
+DB01392	yohimbine
+DB01393	bezafibrate
+DB01394	colchicine
+DB01397	salicylic acid
+DB01401	salicylic acid
+DB01406	danazol
+DB01420	androgen
+DB01426	ajmaline
+DB01485	ZnSO4 + 4OHT
+DB01574	Distilled Water
+DB01574	water
+DB01574	water (vehicle)
+DB01575	Distilled Water
+DB01575	water
+DB01575	water (vehicle)
+DB01577	methamphetamine
+DB01583	triiodothyronine
+DB01590	RAD001
+DB01593	zinc
+DB01599	probucol
+DB01627	lincomycin
+DB01638	mannitol
+DB01645	genestein
+DB01645	genistein
+DB01671	Distilled Water
+DB01671	water
+DB01671	water (vehicle)
+DB01676	2,4,6-trinitrotoluene
+DB01700	AICAR
+DB01700	dexamethasone + AICAR
+DB01750	naphthalene-1-acetic
+DB01750	naphthalene-1-acetic acid
+DB01844	dimethylformamide
+DB01912	chloride
+DB01941	LG100268
+DB01944	blebbistatin
+DB01954	forskolin + rolipram in Mg2+-free ACSF
+DB01972	CpG
+DB02010	staurosporine
+DB02013	Distilled Water
+DB02013	water
+DB02013	water (vehicle)
+DB02032	captopril
+DB02067	TGF
+DB02097	Ara-C
+DB02097	cytarabine
+DB02165	Distilled Water
+DB02165	water
+DB02165	water (vehicle)
+DB02165	zinc
+DB02174	glutamine
+DB02262	orotic acid
+DB02266	flufenamic acid
+DB02373	Distilled Water
+DB02373	water
+DB02373	water (vehicle)
+DB02379	glucose
+DB02379	mannose
+DB02424	geldanamycin
+DB02453	Distilled Water
+DB02453	water
+DB02453	water (vehicle)
+DB02515	glycerol-3-phosphate
+DB02527	cAMP
+DB02546	R1881 + SAHA
+DB02546	SAHA
+DB02546	vorinostat
+DB02587	colforsin
+DB02587	forskolin
+DB02587	forskolin + rolipram in Mg2+-free ACSF
+DB02656	2-(4-Morpholinyl)-8-phenyl-4H-1-benzopyran-4-one
+DB02656	LY294002
+DB02678	glucosamine
+DB02678	glucosamine,
+DB02678	glucosamine, steady state
+DB02690	8-Hydroxy-2-methylquinazoline-4-one
+DB02709	resveratrol
+DB02750	cysteine
+DB02772	sucrose
+DB02853	L-proline
+DB02877	arotinoid acid
+DB02890	BMP
+DB02893	methionine
+DB02901	17beta-hydroxy-5alpha-androstan-3-one
+DB02932	bicalutamide
+DB02998	R1881
+DB02998	R1881 + LBH589
+DB02998	R1881 + SAHA
+DB02998	R1881 + trichostatin A
+DB03007	(9R,13R)-12-oxo-phytodienoic acid
+DB03066	lactic acid
+DB03073	3-methoxybenzamide
+DB03201	cysteine
+DB03255	phenol
+DB03350	ammonium
+DB03366	imidazole
+DB03389	xylose
+DB03492	dipyridyl
+DB03496	flavopiridol
+DB03512	Distilled Water
+DB03512	water
+DB03512	water (vehicle)
+DB03518	atorvastatin + mevalonate
+DB03518	mevalonate
+DB03568	butyrate
+DB03606	forskolin + rolipram in Mg2+-free ACSF
+DB03651	TNF
+DB03756	arachidonic acid + docosahexaenoic acid
+DB03756	docosahexaenoic acid
+DB03758	monorden
+DB03758	radicicol
+DB03783	phenacetin
+DB03796	palmitate
+DB03825	chloride
+DB03840	Distilled Water
+DB03840	water
+DB03840	water (vehicle)
+DB03843	formaldehyde
+DB03871	dipyridyl
+DB03904	Urea
+DB03911	xylose
+DB03918	tetrahydrobiopterin
+DB03929	D-serine
+DB03934	hemin
+DB03940	oxamic acid
+DB03989	glucose
+DB03989	mannose
+DB04031	Distilled Water
+DB04031	water
+DB04031	water (vehicle)
+DB04149	forskolin + rolipram in Mg2+-free ACSF
+DB04179	2,3-benzofuran
+DB04194	chitin
+DB04216	quercetin
+DB04231	Distilled Water
+DB04231	imidazole
+DB04231	water
+DB04231	water (vehicle)
+DB04263	geniticine
+DB04286	xylose
+DB04297	5-aza-2'-deoxycytidine + trichostatin A
+DB04297	R1881 + trichostatin A
+DB04297	trichostatin A
+DB04297	trichostatin A and dipyridyl
+DB04297	trichostatin A;5-aza-2'-deoxycytidine
+DB04331	monastrol
+DB04397	Distilled Water
+DB04397	water
+DB04397	water (vehicle)
+DB04398	lactic acid
+DB04414	Distilled Water
+DB04414	water
+DB04414	water (vehicle)
+DB04468	4-hydroxytamoxifen
+DB04468	4OH-tamoxifen
+DB04494	Distilled Water
+DB04494	water
+DB04494	water (vehicle)
+DB04528	dinitrophenol
+DB04539	glyphosate
+DB04540	cholesterol
+DB04557	arachidonic acid
+DB04557	arachidonic acid + docosahexaenoic acid
+DB04630	aldosterone
+DB04665	coumarin
+DB04669	triazolopyrimidine
+DB04690	camptothecin
+DB04729	gentamicin
+DB04741	myxothiazol
+DB04743	nimesulide
+DB04815	clioquinol
+DB04818	iproniazid
+DB04819	methapyrilene
+DB04830	buformin
+DB04861	nebivolol
+DB04868	Nilotinib
+DB04874	ammonium
+DB04874	chloride
+DB04912	chloride
+DB04996	ammonium
+DB04996	chloride
+DB05076	4-hydroxyphenylretinamide
+DB05134	17-allylamino-17-demethoxygeldanamycin
+DB05134	17-allylamino-geldanamycin
+DB05296	motexafin gadolinium
+DB05389	Distilled Water
+DB05389	O2 2%
+DB05389	O2 20%
+DB05389	water
+DB05389	water (vehicle)
+DB05416	GW501516
+DB05428	motexafin gadolinium
+DB05461	Distilled Water
+DB05461	chloride
+DB05461	water
+DB05461	water (vehicle)
+DB05476	chloride
+DB05630	Distilled Water
+DB05630	water
+DB05630	water (vehicle)
+DB05642	Distilled Water
+DB05642	chloride
+DB05642	water
+DB05642	water (vehicle)
+DB05667	ketoconazole
+DB05790	chloride
+DB05792	chloride
+DB05837	chloride
+DB05956	chloride
+DB05993	chloride
+DB06082	chloride
+DB06151	N-acetyl-L-cysteine
+DB06179	darinaparsin
+DB06246	exisulind
+DB06523	Ribavirin
+DB06530	R848
+DB06603	LBH589
+DB06603	R1881 + LBH589
+DB06659	chloride
+DB06710	methyltestosterone
+DB06723	Distilled Water
+DB06723	water
+DB06723	water (vehicle)
+DB06767	ammonium
+DB06767	chloride
+DB06768	ammonium
+DB06768	lactic acid
+DB06778	copper sulfate
+DB06778	sulfate
+DB06816	pyrvinium
+DB06819	sodium phenylbutyrate
+DB06823	tiopronin
+DB06973	bisphenol A
+DB07031	BMS961
+DB07080	N-(2,2,2-trifluoroethyl)-N-[4-[2,2,2-trifluoro-1-hydroxy-1-(trifluoromethyl)ethyl]phenyl]-benzenesulfonamide
+DB07101	PD-0325901
+DB07129	mexiletine
+DB07294	BMS961
+DB07447	17beta-hydroxy-5alpha-androstan-3-one
+DB07768	testosterone
+DB07795	fisetin
+DB07814	GA3
+DB07814	gibberellin
+DB07815	GA4
+DB07950	indole-3-acetic acid
+DB07950	indole-3-acetic acid + dexamethasone
+DB07954	dexamethasone/8-bromo cyclic AMP/isobutylmethylxanthine (DCI)
+DB08059	wortmannin
+DB08094	R547
+DB08162	fasudil
+DB08313	nocodazole
+DB08607	troglitazone
+DB08756	R)-(+)-trans-N-(4-Pyridyl)-4-(1-aminoethyl)-cyclohexanecarboxamide
+DB08809	dichloroacetate
+DB08858	ammonium
+DB08858	chloride
+DB08913	chloride
+DB08938	Distilled Water
+DB08938	sulfate
+DB08938	water
+DB08938	water (vehicle)
+DB09001	phenobarbital
+DB09015	canrenoate
+DB09064	ciprofibrate
+DB09070	tibolone
+DB09087	sulfate
+DB09104	Distilled Water
+DB09104	water
+DB09104	water (vehicle)
+DB09129	chloride
+DB09131	chloride
+DB09138	Distilled Water
+DB09138	water
+DB09138	water (vehicle)
+DB09140	O2 2%
+DB09140	O2 20%
+DB09145	Distilled Water
+DB09145	water
+DB09145	water (vehicle)
+DB09146	Distilled Water
+DB09146	sucrose
+DB09146	water
+DB09146	water (vehicle)
+DB09152	nitrogen
+DB09153	NaCl
+DB09153	chloride
+DB09160	Distilled Water
+DB09160	water
+DB09160	water (vehicle)
+DB09205	moxisylyte
+DB09213	ibuprofen
+DB09241	chloride
+DB09277	chloride
+DB09314	Distilled Water
+DB09314	water
+DB09314	water (vehicle)
+DB09316	chloride
+DB09320	Penicillin G
+DB09321	zinc
+DB09322	ZnSO4
+DB09322	sulfate
+DB09326	ammonium
+DB09338	Distilled Water
+DB09338	water
+DB09338	water (vehicle)
+DB09372	tannic acid
+DB09407	chloride
+DB09409	Distilled Water
+DB09409	water
+DB09409	water (vehicle)
+DB09472	sulfate
+DB09483	lactic acid
+DB09490	chloride
+DB09498	chloride
+DB09501	ammonium
+DB09510	Urea
+DB09513	Urea
+DB09517	sucrose
+DB09546	sulfate
+DB09555	chlorpheniramine
+DB09561	glycerol-3-phosphate
+DB09571	methamphetamine
+DB11056	chloride
+DB11068	selenate
+DB11079	salicylic acid
+DB11081	chloride
+DB11090	KNO3
+DB11091	Hydrogen Peroxide (H2O2)
+DB11091	hydrogen peroxide
+DB11128	Distilled Water
+DB11128	ammonium
+DB11128	water
+DB11128	water (vehicle)
+DB11129	Hydrogen Peroxide (H2O2)
+DB11129	Urea
+DB11129	hydrogen peroxide
+DB11150	sulfate
+DB11151	Distilled Water
+DB11151	water
+DB11151	water (vehicle)
+DB11153	Distilled Water
+DB11153	water
+DB11153	water (vehicle)
+DB11171	Distilled Water
+DB11171	sulfate
+DB11171	water
+DB11171	water (vehicle)
+DB11197	cysteine
+DB11200	Distilled Water
+DB11200	chloride
+DB11200	water
+DB11200	water (vehicle)
+DB11205	Distilled Water
+DB11205	chloride
+DB11205	water
+DB11205	water (vehicle)
+DB11239	sulfate
+DB11255	niacin-bound chromium
+DB11268	Protocatechuic aldehyde
+DB11309	sulfate
+DB11336	kinetin
+DB11337	t-zeatin
+DB11337	trans-zeatin
+DB11417	Hydrogen Peroxide (H2O2)
+DB11417	hydrogen peroxide
+DB11421	imidacloprid
+DB11429	mibolerone and doxycycline
+DB11430	monensin
+DB11451	Ethylene Oxide
+DB11457	rotenone
+DB11525	ammonium
+DB11562	bicuculline
+DB11573	Distilled Water
+DB11573	chloride
+DB11573	water
+DB11573	water (vehicle)
+DB11663	1mM GDC-0941
+DB11749	Praziquantel
+DB11842	Angiotensin II
+DB11858	LTD4
+DB11868	levetiracetam
+DB12007	isoflavone
+DB12025	Triptolide
+DB12039	(-)-catechin
+DB12191	obatoclax 3x 72h EC50
+DB12191	obatoclax 72h EC50
+DB12319	benzbromarone
+DB12418	saccharine solution alone (control)
+DB12425	triiodothyronine
+DB12442	17-(dimethylaminoethylamino)-17-demethoxygeldanamycin
+DB12449	tempol
+DB12510	500ppb ozone
+DB12510	ozone
+DB12575	4-amino tetrahydrobiopterin
+DB12783	benserazide
+DB13116	Tetrafluororethane
+DB13145	ammonium
+DB13163	Distilled Water
+DB13163	water
+DB13163	water (vehicle)
+DB13209	Distilled Water
+DB13209	water
+DB13209	water (vehicle)
+DB13231	lactic acid
+DB13236	Distilled Water
+DB13236	water
+DB13236	water (vehicle)
+DB13242	S-nitrosoglutathione plus dibutyryl cAMP
+DB13242	bucladesine
+DB13242	dibutyryl cAMP
+DB13242	glutathione plus dibutyryl cAMP
+DB13250	chloride
+DB13257	sulfate
+DB13261	Distilled Water
+DB13261	water
+DB13261	water (vehicle)
+DB13277	benziodarone
+DB13278	bucetin
+DB13318	demecolcine
+DB13322	Distilled Water
+DB13322	water
+DB13322	water (vehicle)
+DB13326	chloride
+DB13344	chloride
+DB13366	chloride
+DB13381	EDTA
+DB13387	Distilled Water
+DB13387	hemin
+DB13387	water
+DB13387	water (vehicle)
+DB13392	Distilled Water
+DB13392	water
+DB13392	water (vehicle)
+DB13404	EDTA
+DB13423	Distilled Water
+DB13423	water
+DB13423	water (vehicle)
+DB13501	bendazac
+DB13509	acetylsalicylic acid
+DB13509	aspirin
+DB13528	chlormadinone
+DB13569	chloride
+DB13576	nicotinic acid
+DB13595	Distilled Water
+DB13595	water
+DB13595	water (vehicle)
+DB13612	Urea
+DB13612	acetylsalicylic acid
+DB13612	aspirin
+DB13615	Distilled Water
+DB13615	water
+DB13615	water (vehicle)
+DB13626	Distilled Water
+DB13626	water
+DB13626	water (vehicle)
+DB13650	Distilled Water
+DB13650	water
+DB13650	water (vehicle)
+DB13654	Distilled Water
+DB13654	water
+DB13654	water (vehicle)
+DB13679	chlorpheniramine
+DB13705	chloride
+DB13732	Distilled Water
+DB13732	water
+DB13732	water (vehicle)
+DB13743	Distilled Water
+DB13743	water
+DB13743	water (vehicle)
+DB13749	Distilled Water
+DB13749	water
+DB13749	water (vehicle)
+DB13765	Mercury (II) chloride
+DB13765	chloride
+DB13780	Distilled Water
+DB13780	clofibric acid
+DB13780	water
+DB13780	water (vehicle)
+DB13786	orotic acid
+DB13812	theophylline
+DB13818	Distilled Water
+DB13818	water
+DB13818	water (vehicle)
+DB13828	cyfluthrin
+DB13860	imidazole
+DB13860	salicylic acid
+DB13909	Distilled Water
+DB13909	water
+DB13909	water (vehicle)
+DB13910	valproic acid
+DB13919	candesartan
+DB13969	chloride
+DB13971	Vanadium Pentoxide
+DB13971	divanadium pentaoxide
+DB13971	vanadium
+DB13972	methionine
+DB13987	chloride
+DB14006	salicylic acid
+DB14063	dexverapamil
+DB14063	verapamil
+DB14080	N-acetyl-L-cysteine
+DB14085	cadmium
+DB14086	(-)-catechin
+DB14093	testosterone
+DB14116	Distilled Water
+DB14116	water
+DB14116	water (vehicle)
+DB14138	Distilled Water
+DB14138	water
+DB14138	water (vehicle)
+DB14180	sulfate
+DB14193	zinc
+DB14194	zinc
+DB14206	chloride
+DB14206	cobalt chloride
+DB14475	lactic acid
+DB14476	alpha-tocopherol
+DB14476	vitamin E
+DB14479	N-acetyl-L-cysteine
+DB14481	Distilled Water
+DB14481	water
+DB14481	water (vehicle)
+DB14494	Distilled Water
+DB14494	water
+DB14494	water (vehicle)
+DB14497	Distilled Water
+DB14497	chloride
+DB14497	water
+DB14497	water (vehicle)
+DB14501	sulfate
+DB14506	Distilled Water
+DB14506	water
+DB14506	water (vehicle)
+DB14520	Distilled Water
+DB14520	water
+DB14520	water (vehicle)
+DB14522	Distilled Water
+DB14522	water
+DB14522	water (vehicle)
+DB14529	nicotinic acid
+DB14530	sulfate
+DB14533	chloride
+DB14546	sulfate
+DB14547	chloride
+DB14550	chloride
+DB14598	EDTA
+DB14599	EDTA
+DB14600	EDTA
+DB14622	Distilled Water
+DB14622	water
+DB14622	water (vehicle)
+DB14695	Distilled Water
+DB14695	water
+DB14695	water (vehicle)
+DB14750	adapin
+DB15392	caesium-137
+DB15394	alpha-tocopherol + gamma-tocopherol
+DB15414	BAY-43-9006
+DB15479	Distilled Water
+DB15479	chloride
+DB15479	water
+DB15479	water (vehicle)
+DB15533	sulfate
+DB15535	chloride
+DB15536	chloride
+DB15582	echinomycin
+DB15585	Org 31710
+DB15587	Bis [(+)-tartrato] diantimonate (III) dipotassium trihydrate
+DB15587	Distilled Water
+DB15587	water
+DB15587	water (vehicle)

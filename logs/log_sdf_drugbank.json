@@ -1,0 +1,1 @@
+{"type": "sdf process", "info": "file: g:/code library/data process/httputil.py\nlines: 33\terror: URLError(timeout('_ssl.c:1039: The handshake operation timed out'))", "url": "https://www.drugbank.ca/structures/small_molecule_drugs/DB001.sdf"}

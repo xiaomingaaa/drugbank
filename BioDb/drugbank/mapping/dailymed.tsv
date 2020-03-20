@@ -1,0 +1,2449 @@
+drugbank_id	dailymed_id
+DB00006	bivalirudin
+DB00007	leuprolide
+DB00007	leuprolide acetate
+DB00014	goserelin
+DB00014	goserelin acetate
+DB00035	desmopressin
+DB00035	desmopressin acetate
+DB00050	cetrorelix
+DB00050	cetrorelix acetate
+DB00080	daptomycin
+DB00091	cyclosporine
+DB00104	octreotide
+DB00104	octreotide acetate
+DB00114	pyridoxal phosphate
+DB00117	histidine
+DB00120	phenylalanine
+DB00121	biotin
+DB00123	lysine
+DB00125	arginine
+DB00126	ascorbic acid
+DB00128	aspartic acid
+DB00129	ornithine
+DB00130	glutamine
+DB00131	adenosine phosphate
+DB00133	serine
+DB00134	methionine
+DB00134	racemethionine
+DB00135	tyrosine
+DB00136	calcitriol
+DB00138	cystine
+DB00139	succinic acid
+DB00140	riboflavin
+DB00142	glutamic acid
+DB00143	glutathione
+DB00145	glycine
+DB00146	calcifediol
+DB00149	leucine
+DB00150	tryptophan
+DB00153	ergocalciferol
+DB00156	threonine
+DB00158	folic acid
+DB00159	icosapent
+DB00160	alanine
+DB00161	valine
+DB00162	retinol
+DB00162	vitamin a
+DB00165	pyridoxine
+DB00167	isoleucine
+DB00169	cholecalciferol
+DB00170	menadione
+DB00172	proline
+DB00173	adenine
+DB00174	asparagine
+DB00175	pravastatin
+DB00175	pravastatin sodium
+DB00176	fluvoxamine
+DB00176	fluvoxamine maleate
+DB00177	valsartan
+DB00178	ramipril
+DB00180	flunisolide
+DB00181	baclofen
+DB00182	amphetamine
+DB00182	dextroamphetamine
+DB00183	pentagastrin
+DB00184	nicotine
+DB00185	cevimeline
+DB00185	cevimeline hydrochloride
+DB00186	lorazepam
+DB00187	esmolol
+DB00187	esmolol hydrochloride
+DB00188	bortezomib
+DB00190	carbidopa
+DB00191	phentermine
+DB00191	phentermine hydrochloride
+DB00193	tramadol
+DB00194	adenosine
+DB00195	betaxolol
+DB00195	betaxolol hydrochloride
+DB00196	fluconazole
+DB00198	oseltamivir
+DB00198	oseltamivir phosphate
+DB00199	erythromycin
+DB00200	water
+DB00201	caffeine
+DB00202	succinylcholine chloride
+DB00203	sildenafil
+DB00203	sildenafil citrate
+DB00204	dofetilide
+DB00205	pyrimethamine
+DB00206	reserpine
+DB00208	ticlopidine
+DB00208	ticlopidine hydrochloride
+DB00209	trospium
+DB00209	trospium chloride
+DB00210	adapalene
+DB00211	midodrine
+DB00211	midodrine hydrochloride
+DB00213	pantoprazole
+DB00214	torsemide
+DB00215	citalopram
+DB00215	citalopram hydrobromide
+DB00215	escitalopram
+DB00215	escitalopram oxalate
+DB00216	eletriptan
+DB00216	eletriptan hydrobromide
+DB00218	moxifloxacin
+DB00218	moxifloxacin hydrochloride
+DB00220	nelfinavir
+DB00220	nelfinavir mesylate
+DB00222	glimepiride
+DB00224	indinavir
+DB00224	indinavir sulfate
+DB00227	lovastatin
+DB00230	pregabalin
+DB00231	temazepam
+DB00232	methyclothiazide
+DB00233	aminosalicylic acid
+DB00235	milrinone
+DB00235	milrinone lactate
+DB00237	butabarbital
+DB00237	butabarbital sodium
+DB00238	nevirapine
+DB00239	oxiconazole
+DB00239	oxiconazole nitrate
+DB00241	butalbital
+DB00242	cladribine
+DB00243	ranolazine
+DB00244	mesalamine
+DB00245	benztropine
+DB00245	benztropine mesylate
+DB00246	ziprasidone
+DB00246	ziprasidone hydrochloride
+DB00246	ziprasidone mesylate
+DB00248	cabergoline
+DB00250	dapsone
+DB00251	terconazole
+DB00252	phenytoin
+DB00252	phenytoin sodium
+DB00253	medrysone
+DB00254	doxycycline
+DB00254	doxycycline calcium
+DB00254	doxycycline hyclate
+DB00257	clotrimazole
+DB00258	acetic acid
+DB00258	calcium acetate
+DB00259	sulfanilamide
+DB00260	cycloserine
+DB00262	carmustine
+DB00263	sulfisoxazole
+DB00264	metoprolol
+DB00264	metoprolol succinate
+DB00264	metoprolol tartrate
+DB00265	crotamiton
+DB00268	ropinirole
+DB00268	ropinirole hydrochloride
+DB00270	isradipine
+DB00271	diatrizoate meglumine
+DB00271	diatrizoate sodium
+DB00273	topiramate
+DB00275	olmesartan
+DB00277	theophylline
+DB00278	argatroban
+DB00279	liothyronine sodium
+DB00280	disopyramide
+DB00280	disopyramide phosphate
+DB00281	lidocaine
+DB00282	pamidronate disodium
+DB00283	clemastine
+DB00283	clemastine fumarate
+DB00285	venlafaxine
+DB00285	venlafaxine hydrochloride
+DB00287	travoprost
+DB00288	amcinonide
+DB00289	atomoxetine
+DB00289	atomoxetine hydrochloride
+DB00290	bleomycin
+DB00290	bleomycin sulfate
+DB00291	chlorambucil
+DB00292	etomidate
+DB00294	etonogestrel
+DB00296	ropivacaine
+DB00296	ropivacaine hydrochloride
+DB00297	bupivacaine
+DB00297	bupivacaine hydrochloride
+DB00299	penciclovir
+DB00300	tenofovir disoproxil
+DB00300	tenofovir disoproxil fumarate
+DB00302	tranexamic acid
+DB00303	ertapenem
+DB00303	ertapenem sodium
+DB00304	desogestrel
+DB00305	mitomycin
+DB00307	bexarotene
+DB00308	ibutilide
+DB00308	ibutilide fumarate
+DB00310	chlorthalidone
+DB00312	pentobarbital
+DB00313	valproic acid
+DB00314	capreomycin sulfate
+DB00316	acetaminophen
+DB00317	gefitinib
+DB00319	piperacillin
+DB00319	piperacillin sodium
+DB00320	dihydroergotamine
+DB00320	dihydroergotamine mesylate
+DB00321	amitriptyline
+DB00321	amitriptyline hydrochloride
+DB00322	floxuridine
+DB00323	tolcapone
+DB00324	fluorometholone
+DB00327	hydromorphone
+DB00327	hydromorphone hydrochloride
+DB00328	indomethacin
+DB00330	ethambutol
+DB00331	metformin
+DB00332	ipratropium bromide
+DB00333	methadone
+DB00333	methadone hydrochloride
+DB00334	olanzapine
+DB00334	olanzapine pamoate
+DB00335	atenolol
+DB00337	pimecrolimus
+DB00339	pyrazinamide
+DB00341	cetirizine
+DB00341	cetirizine hydrochloride
+DB00341	levocetirizine
+DB00341	levocetirizine dihydrochloride
+DB00343	diltiazem
+DB00343	diltiazem hydrochloride
+DB00344	protriptyline
+DB00344	protriptyline hydrochloride
+DB00346	alfuzosin
+DB00346	alfuzosin hydrochloride
+DB00347	trimethadione
+DB00348	nitisinone
+DB00349	clobazam
+DB00350	minoxidil
+DB00351	megestrol acetate
+DB00352	thioguanine
+DB00353	methylergonovine
+DB00353	methylergonovine maleate
+DB00355	aztreonam
+DB00356	chlorzoxazone
+DB00358	mefloquine
+DB00358	mefloquine hydrochloride
+DB00359	sulfadiazine
+DB00360	sapropterin
+DB00360	sapropterin dihydrochloride
+DB00361	vinorelbine tartrate
+DB00362	anidulafungin
+DB00363	clozapine
+DB00364	water
+DB00366	doxylamine
+DB00366	doxylamine succinate
+DB00367	levonorgestrel
+DB00367	norgestrel
+DB00368	norepinephrine
+DB00368	norepinephrine bitartrate
+DB00369	cidofovir
+DB00370	mirtazapine
+DB00371	meprobamate
+DB00373	timolol
+DB00373	timolol maleate
+DB00374	treprostinil
+DB00376	trihexyphenidyl
+DB00376	trihexyphenidyl hydrochloride
+DB00377	palonosetron
+DB00377	palonosetron hydrochloride
+DB00379	mexiletine
+DB00379	mexiletine hydrochloride
+DB00380	dexrazoxane
+DB00380	dexrazoxane hydrochloride
+DB00381	amlodipine
+DB00384	triamterene
+DB00385	valrubicin
+DB00388	phenylephrine
+DB00388	phenylephrine bitartrate
+DB00388	phenylephrine hydrochloride
+DB00390	digoxin
+DB00393	nimodipine
+DB00394	beclomethasone dipropionate
+DB00395	carisoprodol
+DB00396	progesterone
+DB00398	sorafenib
+DB00399	zoledronic acid
+DB00400	griseofulvin
+DB00401	nisoldipine
+DB00402	eszopiclone
+DB00404	alprazolam
+DB00405	brompheniramine
+DB00405	brompheniramine maleate
+DB00405	dexbrompheniramine
+DB00405	dexbrompheniramine maleate
+DB00406	gentian violet
+DB00408	loxapine
+DB00408	loxapine succinate
+DB00410	mupirocin
+DB00410	mupirocin calcium
+DB00411	carbachol
+DB00412	rosiglitazone
+DB00412	rosiglitazone maleate
+DB00413	pramipexole
+DB00413	pramipexole dihydrochloride
+DB00415	ampicillin
+DB00415	ampicillin sodium
+DB00417	penicillin v
+DB00417	penicillin v potassium
+DB00418	secobarbital
+DB00418	secobarbital sodium
+DB00419	miglustat
+DB00421	spironolactone
+DB00422	dexmethylphenidate
+DB00422	dexmethylphenidate hydrochloride
+DB00422	methylphenidate
+DB00422	methylphenidate hydrochloride
+DB00423	methocarbamol
+DB00425	zolpidem
+DB00425	zolpidem tartrate
+DB00426	famciclovir
+DB00427	triprolidine
+DB00427	triprolidine hydrochloride
+DB00428	streptozocin
+DB00429	carboprost
+DB00429	carboprost tromethamine
+DB00429	tromethamine
+DB00431	lindane
+DB00432	trifluridine
+DB00433	prochlorperazine
+DB00433	prochlorperazine edisylate
+DB00433	prochlorperazine maleate
+DB00434	cyproheptadine
+DB00434	cyproheptadine hydrochloride
+DB00435	nitric oxide
+DB00436	bendroflumethiazide
+DB00437	allopurinol
+DB00437	allopurinol sodium
+DB00438	ceftazidime
+DB00438	ceftazidime sodium
+DB00440	trimethoprim
+DB00440	trimethoprim hydrochloride
+DB00440	trimethoprim sulfate
+DB00441	gemcitabine
+DB00442	entecavir
+DB00443	betamethasone
+DB00443	dexamethasone
+DB00444	teniposide
+DB00445	doxorubicin
+DB00445	epirubicin
+DB00446	chloramphenicol
+DB00448	dexlansoprazole
+DB00448	lansoprazole
+DB00450	droperidol
+DB00451	levothyroxine sodium
+DB00454	meperidine
+DB00454	meperidine hydrochloride
+DB00455	loratadine
+DB00457	prazosin
+DB00457	prazosin hydrochloride
+DB00458	imipramine
+DB00458	imipramine hydrochloride
+DB00458	imipramine pamoate
+DB00459	acitretin
+DB00461	nabumetone
+DB00462	methscopolamine
+DB00462	methscopolamine bromide
+DB00465	ketorolac
+DB00465	ketorolac tromethamine
+DB00468	quinidine
+DB00468	quinine
+DB00470	dronabinol
+DB00471	montelukast
+DB00471	montelukast sodium
+DB00472	fluoxetine
+DB00474	methohexital
+DB00474	methohexital sodium
+DB00475	chlordiazepoxide
+DB00475	chlordiazepoxide hydrochloride
+DB00477	chlorpromazine
+DB00478	rimantadine
+DB00478	rimantadine hydrochloride
+DB00479	amikacin
+DB00479	amikacin sulfate
+DB00480	lenalidomide
+DB00481	raloxifene
+DB00481	raloxifene hydrochloride
+DB00482	celecoxib
+DB00484	brimonidine
+DB00484	brimonidine tartrate
+DB00485	dicloxacillin
+DB00485	dicloxacillin sodium
+DB00486	nabilone
+DB00488	altretamine
+DB00489	sotalol
+DB00489	sotalol hydrochloride
+DB00490	buspirone
+DB00490	buspirone hydrochloride
+DB00491	miglitol
+DB00492	fosinopril
+DB00492	fosinopril sodium
+DB00493	cefotaxime
+DB00493	cefotaxime sodium
+DB00494	entacapone
+DB00495	zidovudine
+DB00496	darifenacin
+DB00496	darifenacin hydrobromide
+DB00499	flutamide
+DB00500	tolmetin
+DB00500	tolmetin sodium
+DB00501	cimetidine
+DB00501	cimetidine hydrochloride
+DB00502	haloperidol
+DB00503	ritonavir
+DB00507	nitazoxanide
+DB00509	levothyroxine sodium
+DB00512	vancomycin
+DB00512	vancomycin hydrochloride
+DB00513	aminocaproic acid
+DB00514	dextromethorphan
+DB00515	ammonia n-13
+DB00515	hydrochloric acid
+DB00518	albendazole
+DB00519	trandolapril
+DB00520	caspofungin
+DB00520	caspofungin acetate
+DB00521	carteolol
+DB00521	carteolol hydrochloride
+DB00523	alitretinoin
+DB00523	isotretinoin
+DB00523	tretinoin
+DB00524	metolazone
+DB00525	tolnaftate
+DB00527	dibucaine
+DB00529	foscarnet
+DB00530	erlotinib
+DB00530	erlotinib hydrochloride
+DB00534	hydrochloric acid
+DB00535	cefdinir
+DB00537	ciprofloxacin
+DB00539	toremifene
+DB00539	toremifene citrate
+DB00540	nortriptyline
+DB00540	nortriptyline hydrochloride
+DB00541	vincristine
+DB00541	vincristine sulfate
+DB00542	benazepril
+DB00542	benazepril hydrochloride
+DB00543	amoxapine
+DB00544	fluorouracil
+DB00545	pyridostigmine
+DB00545	pyridostigmine bromide
+DB00547	desoximetasone
+DB00548	azelaic acid
+DB00549	zafirlukast
+DB00550	propylthiouracil
+DB00551	acetohydroxamic acid
+DB00552	pentostatin
+DB00553	methoxsalen
+DB00554	piroxicam
+DB00555	lamotrigine
+DB00556	perflutren
+DB00557	hydroxyzine
+DB00557	hydroxyzine hydrochloride
+DB00557	hydroxyzine pamoate
+DB00558	zanamivir
+DB00559	bosentan
+DB00560	tigecycline
+DB00561	doxapram
+DB00561	doxapram hydrochloride
+DB00563	methotrexate
+DB00564	carbamazepine
+DB00565	atracurium
+DB00565	atracurium besylate
+DB00565	cisatracurium
+DB00565	cisatracurium besylate
+DB00566	succimer
+DB00567	cephalexin
+DB00569	fondaparinux
+DB00569	fondaparinux sodium
+DB00570	vinblastine
+DB00570	vinblastine sulfate
+DB00571	propranolol
+DB00571	propranolol hydrochloride
+DB00572	atropine
+DB00572	atropine sulfate
+DB00572	hyoscyamine
+DB00572	hyoscyamine hydrobromide
+DB00572	hyoscyamine sulfate
+DB00573	fenoprofen
+DB00573	fenoprofen calcium
+DB00575	clonidine
+DB00575	clonidine hydrochloride
+DB00576	sulfamethizole
+DB00577	valacyclovir
+DB00577	valacyclovir hydrochloride
+DB00580	valdecoxib
+DB00581	lactulose
+DB00582	voriconazole
+DB00583	carnitine
+DB00583	levocarnitine
+DB00584	enalapril
+DB00584	enalapril maleate
+DB00585	nizatidine
+DB00586	diclofenac
+DB00588	fluticasone propionate
+DB00590	doxazosin
+DB00590	doxazosin mesylate
+DB00591	fluocinolone acetonide
+DB00593	ethosuximide
+DB00594	amiloride
+DB00594	amiloride hydrochloride
+DB00595	oxytetracycline
+DB00595	oxytetracycline hydrochloride
+DB00598	labetalol
+DB00598	labetalol hydrochloride
+DB00601	linezolid
+DB00602	ivermectin
+DB00603	medroxyprogesterone acetate
+DB00605	sulindac
+DB00607	nafcillin
+DB00607	nafcillin sodium
+DB00608	chloroquine
+DB00608	chloroquine phosphate
+DB00609	ethionamide
+DB00611	butorphanol
+DB00611	butorphanol tartrate
+DB00612	bisoprolol
+DB00612	bisoprolol fumarate
+DB00615	rifabutin
+DB00618	demeclocycline
+DB00618	demeclocycline hydrochloride
+DB00619	imatinib
+DB00619	imatinib mesylate
+DB00620	triamcinolone
+DB00621	oxandrolone
+DB00622	nicardipine
+DB00622	nicardipine hydrochloride
+DB00623	fluphenazine
+DB00624	testosterone
+DB00625	efavirenz
+DB00626	bacitracin
+DB00626	bacitracin zinc
+DB00627	niacin
+DB00628	clorazepate dipotassium
+DB00630	alendronate sodium
+DB00631	clofarabine
+DB00632	docosanol
+DB00633	dexmedetomidine
+DB00633	dexmedetomidine hydrochloride
+DB00634	sulfacetamide
+DB00634	sulfacetamide sodium
+DB00635	prednisone
+DB00639	butoconazole
+DB00639	butoconazole nitrate
+DB00640	adenosine
+DB00641	simvastatin
+DB00642	pemetrexed
+DB00642	pemetrexed disodium
+DB00643	mebendazole
+DB00645	dyclonine
+DB00645	dyclonine hydrochloride
+DB00646	nystatin
+DB00647	propoxyphene
+DB00647	propoxyphene hydrochloride
+DB00647	propoxyphene napsylate
+DB00648	mitotane
+DB00649	stavudine
+DB00650	leucovorin calcium
+DB00650	levoleucovorin calcium
+DB00652	pentazocine
+DB00652	pentazocine hydrochloride
+DB00653	magnesium sulfate anhydrous
+DB00653	sulfuric acid
+DB00654	latanoprost
+DB00655	estrone
+DB00656	trazodone
+DB00656	trazodone hydrochloride
+DB00657	mecamylamine
+DB00657	mecamylamine hydrochloride
+DB00658	sevelamer
+DB00659	acamprosate
+DB00659	acamprosate calcium
+DB00660	metaxalone
+DB00661	verapamil
+DB00662	trimethobenzamide
+DB00662	trimethobenzamide hydrochloride
+DB00665	nilutamide
+DB00668	epinephrine
+DB00668	racepinephrine
+DB00671	cefixime
+DB00672	chlorpropamide
+DB00673	aprepitant
+DB00674	galantamine
+DB00674	galantamine hydrobromide
+DB00675	tamoxifen
+DB00675	tamoxifen citrate
+DB00676	benzyl benzoate
+DB00678	losartan
+DB00679	thioridazine
+DB00679	thioridazine hydrochloride
+DB00681	amphotericin b
+DB00682	warfarin
+DB00682	warfarin sodium
+DB00683	midazolam
+DB00683	midazolam hydrochloride
+DB00684	tobramycin
+DB00684	tobramycin sulfate
+DB00685	trovafloxacin
+DB00685	trovafloxacin mesylate
+DB00688	mycophenolate mofetil
+DB00688	mycophenolate mofetil hydrochloride
+DB00690	flurazepam
+DB00690	flurazepam hydrochloride
+DB00691	moexipril
+DB00691	moexipril hydrochloride
+DB00692	phentolamine
+DB00692	phentolamine mesylate
+DB00694	daunorubicin
+DB00694	daunorubicin hydrochloride
+DB00695	furosemide
+DB00696	ergotamine
+DB00696	ergotamine tartrate
+DB00697	tizanidine
+DB00697	tizanidine hydrochloride
+DB00698	nitrofurantoin
+DB00700	eplerenone
+DB00703	methazolamide
+DB00704	naltrexone
+DB00705	delavirdine
+DB00705	delavirdine mesylate
+DB00706	tamsulosin
+DB00706	tamsulosin hydrochloride
+DB00708	sufentanil
+DB00708	sufentanil citrate
+DB00709	lamivudine
+DB00710	ibandronate sodium
+DB00712	flurbiprofen
+DB00712	flurbiprofen sodium
+DB00713	oxacillin
+DB00713	oxacillin sodium
+DB00714	apomorphine
+DB00714	apomorphine hydrochloride
+DB00715	paroxetine
+DB00715	paroxetine mesylate
+DB00716	nedocromil
+DB00716	nedocromil sodium
+DB00717	norethindrone
+DB00718	adefovir dipivoxil
+DB00721	penicillin g procaine
+DB00721	procaine
+DB00721	procaine hydrochloride
+DB00722	lisinopril
+DB00724	imiquimod
+DB00725	homatropine methylbromide
+DB00726	trimipramine
+DB00726	trimipramine maleate
+DB00727	nitroglycerin
+DB00728	rocuronium bromide
+DB00731	nateglinide
+DB00732	atracurium
+DB00732	atracurium besylate
+DB00732	cisatracurium
+DB00732	cisatracurium besylate
+DB00733	pralidoxime
+DB00733	pralidoxime chloride
+DB00734	risperidone
+DB00735	naftifine
+DB00735	naftifine hydrochloride
+DB00736	esomeprazole
+DB00736	omeprazole
+DB00737	meclizine
+DB00737	meclizine hydrochloride
+DB00738	pentamidine
+DB00738	pentamidine isethionate
+DB00740	riluzole
+DB00741	hydrocortisone
+DB00742	mannitol
+DB00742	sorbitol
+DB00744	zileuton
+DB00745	armodafinil
+DB00745	modafinil
+DB00746	deferoxamine
+DB00746	deferoxamine mesylate
+DB00747	scopolamine
+DB00747	scopolamine hydrobromide
+DB00748	carbinoxamine
+DB00748	carbinoxamine maleate
+DB00749	etodolac
+DB00750	prilocaine
+DB00750	prilocaine hydrochloride
+DB00751	epinastine
+DB00751	epinastine hydrochloride
+DB00752	tranylcypromine sulfate
+DB00753	isoflurane
+DB00754	ethotoin
+DB00755	alitretinoin
+DB00755	isotretinoin
+DB00755	tretinoin
+DB00757	dolasetron
+DB00757	dolasetron mesylate
+DB00758	clopidogrel
+DB00758	clopidogrel bisulfate
+DB00759	tetracycline
+DB00759	tetracycline hydrochloride
+DB00760	meropenem
+DB00761	hydrochloric acid
+DB00761	potassium chloride
+DB00762	irinotecan
+DB00762	irinotecan hydrochloride
+DB00763	methimazole
+DB00765	metyrosine
+DB00766	clavulanate potassium
+DB00766	clavulanic acid
+DB00770	alprostadil
+DB00771	clidinium bromide
+DB00772	malathion
+DB00773	etoposide
+DB00774	hydroflumethiazide
+DB00775	tirofiban
+DB00775	tirofiban hydrochloride
+DB00776	oxcarbazepine
+DB00780	phenelzine
+DB00780	phenelzine sulfate
+DB00781	polymyxin b
+DB00781	polymyxin b sulfate
+DB00782	propantheline
+DB00782	propantheline bromide
+DB00783	alfatradiol
+DB00783	estradiol
+DB00784	mefenamic acid
+DB00787	acyclovir
+DB00788	naproxen
+DB00789	pentetic acid
+DB00790	perindopril
+DB00790	perindopril arginine
+DB00790	perindopril erbumine
+DB00794	primidone
+DB00795	sulfasalazine
+DB00796	candesartan cilexetil
+DB00798	gentamicin
+DB00798	gentamicin sulfate
+DB00799	tazarotene
+DB00800	fenoldopam
+DB00800	fenoldopam mesylate
+DB00802	alfentanil
+DB00802	alfentanil hydrochloride
+DB00804	dicyclomine
+DB00804	dicyclomine hydrochloride
+DB00806	pentoxifylline
+DB00807	proparacaine
+DB00807	proparacaine hydrochloride
+DB00808	indapamide
+DB00809	tropicamide
+DB00811	ribavirin
+DB00812	phenylbutazone
+DB00813	fentanyl
+DB00813	fentanyl citrate
+DB00813	fentanyl hydrochloride
+DB00814	meloxicam
+DB00815	sodium lauryl sulfate
+DB00816	metaproterenol
+DB00816	metaproterenol sulfate
+DB00818	propofol
+DB00819	acetazolamide
+DB00820	tadalafil
+DB00822	disulfiram
+DB00823	ethynodiol diacetate
+DB00825	levomenthol
+DB00826	natamycin
+DB00828	fosfomycin
+DB00828	fosfomycin tromethamine
+DB00829	diazepam
+DB00831	trifluoperazine
+DB00831	trifluoperazine hydrochloride
+DB00833	cefaclor
+DB00834	mifepristone
+DB00835	brompheniramine
+DB00835	brompheniramine maleate
+DB00835	dexbrompheniramine
+DB00835	dexbrompheniramine maleate
+DB00836	loperamide
+DB00836	loperamide hydrochloride
+DB00839	tolazamide
+DB00841	dobutamine
+DB00841	dobutamine hydrochloride
+DB00842	oxazepam
+DB00843	donepezil
+DB00843	donepezil hydrochloride
+DB00844	nalbuphine
+DB00844	nalbuphine hydrochloride
+DB00846	flurandrenolide
+DB00847	cysteamine
+DB00850	perphenazine
+DB00851	dacarbazine
+DB00852	ephedrine
+DB00852	pseudoephedrine
+DB00853	temozolomide
+DB00854	levorphanol tartrate
+DB00855	aminolevulinic acid
+DB00855	aminolevulinic acid hydrochloride
+DB00857	terbinafine
+DB00857	terbinafine hydrochloride
+DB00859	penicillamine
+DB00860	prednisolone
+DB00861	diflunisal
+DB00862	vardenafil
+DB00862	vardenafil hydrochloride
+DB00863	ranitidine
+DB00863	ranitidine hydrochloride
+DB00864	tacrolimus
+DB00865	benzphetamine hydrochloride
+DB00868	benzonatate
+DB00869	dorzolamide
+DB00869	dorzolamide hydrochloride
+DB00870	suprofen
+DB00871	terbutaline
+DB00871	terbutaline sulfate
+DB00872	conivaptan
+DB00872	conivaptan hydrochloride
+DB00874	guaifenesin
+DB00876	eprosartan
+DB00876	eprosartan mesylate
+DB00877	sirolimus
+DB00878	chlorhexidine
+DB00879	emtricitabine
+DB00880	chlorothiazide
+DB00881	quinapril
+DB00881	quinapril hydrochloride
+DB00882	clomiphene
+DB00882	clomiphene citrate
+DB00883	isosorbide dinitrate
+DB00884	risedronate sodium
+DB00887	bumetanide
+DB00888	mechlorethamine
+DB00888	mechlorethamine hydrochloride
+DB00889	granisetron
+DB00889	granisetron hydrochloride
+DB00892	benoxinate
+DB00892	benoxinate hydrochloride
+DB00895	lysine
+DB00896	rimexolone
+DB00897	triazolam
+DB00898	alcohol
+DB00899	remifentanil
+DB00899	remifentanil hydrochloride
+DB00900	didanosine
+DB00903	ethacrynate sodium
+DB00903	ethacrynic acid
+DB00904	ondansetron
+DB00904	ondansetron hydrochloride
+DB00905	bimatoprost
+DB00906	tiagabine
+DB00906	tiagabine hydrochloride
+DB00907	cocaine
+DB00907	cocaine hydrochloride
+DB00908	quinidine
+DB00908	quinine
+DB00909	zonisamide
+DB00910	paricalcitol
+DB00911	tinidazole
+DB00912	repaglinide
+DB00915	amantadine
+DB00916	metronidazole
+DB00917	dinoprostone
+DB00918	almotriptan
+DB00918	almotriptan malate
+DB00920	ketotifen
+DB00920	ketotifen fumarate
+DB00921	buprenorphine
+DB00921	buprenorphine hydrochloride
+DB00924	cyclobenzaprine
+DB00924	cyclobenzaprine hydrochloride
+DB00925	phenoxybenzamine
+DB00925	phenoxybenzamine hydrochloride
+DB00927	famotidine
+DB00928	azacitidine
+DB00929	misoprostol
+DB00932	tipranavir
+DB00934	maprotiline
+DB00934	maprotiline hydrochloride
+DB00935	oxymetazoline
+DB00935	oxymetazoline hydrochloride
+DB00936	salicylic acid
+DB00937	diethylpropion
+DB00937	diethylpropion hydrochloride
+DB00938	salmeterol
+DB00938	salmeterol xinafoate
+DB00939	meclofenamate sodium
+DB00945	aspirin
+DB00947	fulvestrant
+DB00949	felbamate
+DB00950	fexofenadine
+DB00950	fexofenadine hydrochloride
+DB00951	isoniazid
+DB00952	naratriptan
+DB00952	naratriptan hydrochloride
+DB00953	rizatriptan
+DB00953	rizatriptan benzoate
+DB00956	hydrocodone
+DB00956	hydrocodone bitartrate
+DB00957	norgestimate
+DB00958	ammonia n-13
+DB00959	methylprednisolone
+DB00960	pindolol
+DB00961	mepivacaine
+DB00961	mepivacaine hydrochloride
+DB00962	zaleplon
+DB00963	bromfenac
+DB00963	bromfenac sodium
+DB00964	apraclonidine
+DB00964	apraclonidine hydrochloride
+DB00966	telmisartan
+DB00967	desloratadine
+DB00968	methyldopa
+DB00969	alosetron
+DB00969	alosetron hydrochloride
+DB00970	dactinomycin
+DB00971	selenium sulfide
+DB00972	azelastine
+DB00972	azelastine hydrochloride
+DB00975	dipyridamole
+DB00977	ethinyl estradiol
+DB00978	lomefloxacin
+DB00978	lomefloxacin hydrochloride
+DB00979	cyclopentolate
+DB00979	cyclopentolate hydrochloride
+DB00980	ramelteon
+DB00981	physostigmine
+DB00981	physostigmine salicylate
+DB00982	alitretinoin
+DB00982	isotretinoin
+DB00982	tretinoin
+DB00983	arformoterol tartrate
+DB00983	formoterol
+DB00983	formoterol fumarate
+DB00985	dimenhydrinate
+DB00985	diphenhydramine
+DB00986	glycopyrrolate
+DB00986	glycopyrronium tosylate
+DB00987	cytarabine
+DB00988	dopamine
+DB00989	rivastigmine
+DB00989	rivastigmine tartrate
+DB00990	exemestane
+DB00991	oxaprozin
+DB00992	methyl aminolevulinate
+DB00992	methyl aminolevulinate hydrochloride
+DB00993	azathioprine
+DB00996	gabapentin
+DB00997	doxorubicin
+DB00997	epirubicin
+DB00998	frovatriptan
+DB00998	frovatriptan succinate
+DB00999	hydrochlorothiazide
+DB01001	albuterol
+DB01002	bupivacaine
+DB01002	bupivacaine hydrochloride
+DB01003	cromolyn
+DB01003	cromolyn sodium
+DB01004	ganciclovir
+DB01004	ganciclovir sodium
+DB01005	hydroxyurea
+DB01006	letrozole
+DB01007	tioconazole
+DB01008	busulfan
+DB01009	ketoprofen
+DB01010	edrophonium chloride
+DB01011	metyrapone
+DB01012	cinacalcet
+DB01012	cinacalcet hydrochloride
+DB01013	clobetasol propionate
+DB01014	balsalazide disodium
+DB01015	sulfamethoxazole
+DB01018	guanfacine
+DB01018	guanfacine hydrochloride
+DB01019	bethanechol
+DB01019	bethanechol chloride
+DB01020	isosorbide mononitrate
+DB01022	phytonadione
+DB01023	felodipine
+DB01024	mycophenolate sodium
+DB01024	mycophenolic acid
+DB01026	ketoconazole
+DB01029	irbesartan
+DB01030	topotecan
+DB01030	topotecan hydrochloride
+DB01035	procainamide
+DB01035	procainamide hydrochloride
+DB01037	selegiline
+DB01037	selegiline hydrochloride
+DB01041	thalidomide
+DB01042	melphalan
+DB01042	melphalan hydrochloride
+DB01043	memantine
+DB01043	memantine hydrochloride
+DB01044	gatifloxacin
+DB01045	rifampin
+DB01046	lubiprostone
+DB01047	fluocinonide
+DB01050	ibuprofen
+DB01053	penicillin g benzathine
+DB01053	penicillin g potassium
+DB01053	penicillin g procaine
+DB01053	penicillin g sodium
+DB01057	echothiophate
+DB01057	echothiophate iodide
+DB01058	praziquantel
+DB01060	amoxicillin
+DB01060	amoxicillin sodium
+DB01062	oxybutynin
+DB01062	oxybutynin chloride
+DB01064	isoproterenol
+DB01064	isoproterenol hydrochloride
+DB01067	glipizide
+DB01068	clonazepam
+DB01069	promethazine
+DB01072	atazanavir
+DB01072	atazanavir sulfate
+DB01075	diphenhydramine
+DB01076	atorvastatin
+DB01080	vigabatrin
+DB01081	diphenoxylate
+DB01081	diphenoxylate hydrochloride
+DB01082	streptomycin
+DB01082	streptomycin sulfate
+DB01083	orlistat
+DB01084	emedastine
+DB01084	emedastine difumarate
+DB01085	pilocarpine
+DB01085	pilocarpine hydrochloride
+DB01086	benzocaine
+DB01087	primaquine
+DB01087	primaquine phosphate
+DB01088	iloprost
+DB01091	butenafine
+DB01091	butenafine hydrochloride
+DB01093	dimethyl sulfoxide
+DB01097	leflunomide
+DB01099	flucytosine
+DB01100	pimozide
+DB01101	capecitabine
+DB01104	sertraline
+DB01104	sertraline hydrochloride
+DB01106	levocabastine
+DB01106	levocabastine hydrochloride
+DB01110	miconazole
+DB01110	miconazole nitrate
+DB01112	cefuroxime
+DB01112	cefuroxime sodium
+DB01113	papaverine
+DB01113	papaverine hydrochloride
+DB01114	chlorpheniramine
+DB01114	chlorpheniramine maleate
+DB01114	dexchlorpheniramine
+DB01114	dexchlorpheniramine maleate
+DB01115	nifedipine
+DB01117	atovaquone
+DB01118	amiodarone
+DB01118	amiodarone hydrochloride
+DB01119	diazoxide
+DB01123	proflavine
+DB01124	tolbutamide
+DB01126	dutasteride
+DB01127	econazole
+DB01127	econazole nitrate
+DB01128	bicalutamide
+DB01129	rabeprazole
+DB01130	prednicarbate
+DB01131	proguanil hydrochloride
+DB01132	pioglitazone
+DB01132	pioglitazone hydrochloride
+DB01136	carvedilol
+DB01136	carvedilol phosphate
+DB01137	levofloxacin
+DB01137	ofloxacin
+DB01140	cefadroxil
+DB01141	micafungin
+DB01141	micafungin sodium
+DB01142	doxepin
+DB01142	doxepin hydrochloride
+DB01143	amifostine
+DB01144	dichlorphenamide
+DB01148	flavoxate
+DB01148	flavoxate hydrochloride
+DB01149	nefazodone
+DB01149	nefazodone hydrochloride
+DB01150	cefprozil
+DB01151	desipramine
+DB01151	desipramine hydrochloride
+DB01153	sertaconazole
+DB01153	sertaconazole nitrate
+DB01156	bupropion
+DB01156	bupropion hydrobromide
+DB01156	bupropion hydrochloride
+DB01157	trimetrexate
+DB01157	trimetrexate glucuronate
+DB01160	tromethamine
+DB01161	chloroprocaine
+DB01161	chloroprocaine hydrochloride
+DB01162	terazosin
+DB01162	terazosin hydrochloride
+DB01164	calcium chloride
+DB01164	hydrochloric acid
+DB01165	levofloxacin
+DB01165	ofloxacin
+DB01166	cilostazol
+DB01167	itraconazole
+DB01168	procarbazine
+DB01168	procarbazine hydrochloride
+DB01169	arsenic trioxide
+DB01172	kanamycin
+DB01173	orphenadrine citrate
+DB01174	phenobarbital
+DB01175	citalopram
+DB01175	citalopram hydrobromide
+DB01175	escitalopram
+DB01175	escitalopram oxalate
+DB01177	idarubicin
+DB01177	idarubicin hydrochloride
+DB01179	podofilox
+DB01181	ifosfamide
+DB01182	propafenone
+DB01182	propafenone hydrochloride
+DB01183	naloxone
+DB01183	naloxone hydrochloride
+DB01185	fluoxymesterone
+DB01186	pergolide
+DB01188	ciclopirox
+DB01188	ciclopirox olamine
+DB01189	desflurane
+DB01190	clindamycin
+DB01190	clindamycin hydrochloride
+DB01192	oxymorphone hydrochloride
+DB01193	acebutolol
+DB01193	acebutolol hydrochloride
+DB01194	brinzolamide
+DB01195	flecainide
+DB01195	flecainide acetate
+DB01196	estramustine
+DB01197	captopril
+DB01198	eszopiclone
+DB01199	tubocurarine
+DB01199	tubocurarine chloride
+DB01200	bromocriptine
+DB01200	bromocriptine mesylate
+DB01201	rifapentine
+DB01202	levetiracetam
+DB01203	nadolol
+DB01204	mitoxantrone
+DB01205	flumazenil
+DB01206	lomustine
+DB01210	levobunolol
+DB01210	levobunolol hydrochloride
+DB01211	clarithromycin
+DB01212	ceftriaxone
+DB01212	ceftriaxone sodium
+DB01213	fomepizole
+DB01214	metipranolol
+DB01215	estazolam
+DB01216	finasteride
+DB01217	anastrozole
+DB01219	dantrolene
+DB01219	dantrolene sodium
+DB01220	rifaximin
+DB01221	ketamine
+DB01221	ketamine hydrochloride
+DB01222	budesonide
+DB01223	aminophylline
+DB01223	theophylline
+DB01224	quetiapine
+DB01224	quetiapine fumarate
+DB01226	mivacurium chloride
+DB01229	paclitaxel
+DB01232	saquinavir
+DB01232	saquinavir mesylate
+DB01233	metoclopramide
+DB01233	metoclopramide hydrochloride
+DB01234	betamethasone
+DB01234	dexamethasone
+DB01235	levodopa
+DB01236	sevoflurane
+DB01238	aripiprazole
+DB01240	epoprostenol
+DB01240	epoprostenol sodium
+DB01241	gemfibrozil
+DB01242	clomipramine
+DB01242	clomipramine hydrochloride
+DB01247	isocarboxazid
+DB01248	docetaxel
+DB01249	iodixanol
+DB01250	olsalazine
+DB01250	olsalazine sodium
+DB01254	dasatinib
+DB01255	lisdexamfetamine
+DB01255	lisdexamfetamine dimesylate
+DB01256	retapamulin
+DB01259	lapatinib
+DB01259	lapatinib ditosylate
+DB01260	desonide
+DB01261	sitagliptin
+DB01261	sitagliptin phosphate
+DB01262	decitabine
+DB01263	posaconazole
+DB01264	darunavir
+DB01264	darunavir ethanolate
+DB01267	paliperidone
+DB01268	sunitinib
+DB01268	sunitinib malate
+DB01273	varenicline
+DB01273	varenicline tartrate
+DB01274	arformoterol tartrate
+DB01274	formoterol
+DB01274	formoterol fumarate
+DB01275	hydralazine
+DB01275	hydralazine hydrochloride
+DB01278	pramlintide
+DB01278	pramlintide acetate
+DB01280	nelarabine
+DB01284	cosyntropin
+DB01294	salicylic acid
+DB01294	water
+DB01296	glucosamine
+DB01319	fosamprenavir
+DB01319	fosamprenavir calcium
+DB01320	fosphenytoin
+DB01320	fosphenytoin sodium
+DB01324	polythiazide
+DB01327	cefazolin
+DB01327	cefazolin sodium
+DB01330	cefotetan
+DB01330	cefotetan disodium
+DB01331	cefoxitin
+DB01331	cefoxitin sodium
+DB01332	ceftizoxime
+DB01332	ceftizoxime sodium
+DB01337	pancuronium
+DB01337	pancuronium bromide
+DB01339	vecuronium
+DB01339	vecuronium bromide
+DB01346	phenobarbital
+DB01346	quinidine
+DB01346	quinine
+DB01351	amobarbital
+DB01351	amobarbital sodium
+DB01357	mestranol
+DB01362	iohexol
+DB01364	ephedrine
+DB01364	pseudoephedrine
+DB01367	rasagiline
+DB01367	rasagiline mesylate
+DB01369	quinupristin
+DB01375	stearic acid
+DB01375	water
+DB01380	cortisone acetate
+DB01390	sodium bicarbonate
+DB01392	yohimbine
+DB01394	colchicine
+DB01395	drospirenone
+DB01397	salicylic acid
+DB01399	salsalate
+DB01400	neostigmine
+DB01400	neostigmine methylsulfate
+DB01401	salicylic acid
+DB01406	danazol
+DB01409	tiotropium
+DB01410	ciclesonide
+DB01412	theobromine
+DB01413	cefepime
+DB01413	cefepime hydrochloride
+DB01415	ceftibuten
+DB01415	ceftibuten dihydrate
+DB01421	paromomycin
+DB01421	paromomycin sulfate
+DB01428	oxybenzone
+DB01435	antipyrine
+DB01438	phenazopyridine
+DB01440	sodium oxybate
+DB01494	betaine
+DB01494	chloral hydrate
+DB01495	antipyrine
+DB01495	chloral hydrate
+DB01501	difenoxin
+DB01501	difenoxin hydrochloride
+DB01536	androstenedione
+DB01551	dihydrocodeine
+DB01551	dihydrocodeine bitartrate
+DB01563	chloral hydrate
+DB01574	water
+DB01575	water
+DB01576	amphetamine
+DB01576	dextroamphetamine
+DB01577	levmetamfetamine
+DB01577	methamphetamine
+DB01577	methamphetamine hydrochloride
+DB01579	phendimetrazine tartrate
+DB01583	levothyroxine sodium
+DB01583	liothyronine sodium
+DB01586	chenodiol
+DB01586	ursodiol
+DB01589	quazepam
+DB01590	everolimus
+DB01591	solifenacin
+DB01591	solifenacin succinate
+DB01597	cilastatin sodium
+DB01598	imipenem
+DB01601	lopinavir
+DB01606	tazobactam
+DB01606	tazobactam sodium
+DB01609	deferasirox
+DB01610	valganciclovir
+DB01610	valganciclovir hydrochloride
+DB01611	hydroxychloroquine
+DB01611	hydroxychloroquine sulfate
+DB01618	molindone
+DB01618	molindone hydrochloride
+DB01620	pheniramine
+DB01620	pheniramine maleate
+DB01623	thiothixene
+DB01627	lincomycin
+DB01627	lincomycin hydrochloride
+DB01638	mannitol
+DB01638	sorbitol
+DB01656	roflumilast
+DB01671	water
+DB01677	fumaric acid
+DB01694	tartaric acid
+DB01698	rutin
+DB01708	prasterone
+DB01739	isoleucine
+DB01746	leucine
+DB01764	dalfopristin
+DB01783	pantothenic acid
+DB01786	alanine
+DB01839	propylene glycol
+DB01885	gluconolactone
+DB01912	hydrochloric acid
+DB01956	taurine
+DB01982	sodium gluconate
+DB01982	trimetrexate glucuronate
+DB01987	cocarboxylase
+DB02013	water
+DB02032	captopril
+DB02097	cytarabine
+DB02159	propylene glycol
+DB02161	homatropine
+DB02161	homatropine hydrobromide
+DB02165	water
+DB02174	glutamine
+DB02176	acetic acid
+DB02228	fludeoxyglucose f-18
+DB02262	orotic acid
+DB02300	calcipotriene
+DB02325	isopropyl alcohol
+DB02362	aminobenzoic acid
+DB02373	water
+DB02453	water
+DB02507	warfarin
+DB02507	warfarin sodium
+DB02513	thymol
+DB02517	glutamic acid
+DB02546	vorinostat
+DB02556	phenylalanine
+DB02648	carnitine
+DB02648	levocarnitine
+DB02655	aspartic acid
+DB02659	cholic acid
+DB02665	tranylcypromine sulfate
+DB02678	glucosamine
+DB02701	niacinamide
+DB02772	sucrose
+DB02831	phosphoric acid
+DB02853	proline
+DB02893	methionine
+DB02893	racemethionine
+DB02932	bicalutamide
+DB02945	sodium gluconate
+DB02945	trimetrexate glucuronate
+DB02959	oxitriptan
+DB03034	levofloxacin
+DB03034	ofloxacin
+DB03106	inositol
+DB03125	trimethoprim
+DB03125	trimethoprim hydrochloride
+DB03125	trimethoprim sulfate
+DB03128	acetylcholine
+DB03128	acetylcholine chloride
+DB03151	sulfur
+DB03156	sodium gluconate
+DB03156	trimetrexate glucuronate
+DB03166	acetic acid
+DB03193	stearic acid
+DB03206	migalastat
+DB03206	migalastat hydrochloride
+DB03225	tryptophan
+DB03252	lysine
+DB03255	phenol
+DB03256	leucovorin calcium
+DB03256	levoleucovorin calcium
+DB03266	glutaral
+DB03310	oxiglutatione
+DB03322	propranolol
+DB03322	propranolol hydrochloride
+DB03350	ammonia n-13
+DB03499	malic acid
+DB03511	sodium gluconate
+DB03511	trimetrexate glucuronate
+DB03512	water
+DB03528	adenosine
+DB03619	deoxycholic acid
+DB03652	sodium gluconate
+DB03652	trimetrexate glucuronate
+DB03700	threonine
+DB03754	tromethamine
+DB03756	doconexent
+DB03783	phenacetin
+DB03793	benzoic acid
+DB03796	palmitic acid
+DB03825	hydrochloric acid
+DB03839	tyrosine
+DB03840	water
+DB03843	formaldehyde
+DB03852	eucalyptol
+DB03856	eflornithine
+DB03856	eflornithine hydrochloride
+DB03894	rasagiline
+DB03894	rasagiline mesylate
+DB03904	urea
+DB03904	urea c-13
+DB03918	sapropterin
+DB03918	sapropterin dihydrochloride
+DB03929	serine
+DB03943	asparagine
+DB03955	migalastat
+DB03955	migalastat hydrochloride
+DB03994	monoethanolamine
+DB04027	arginine
+DB04031	water
+DB04084	fludeoxyglucose f-18
+DB04100	carbon monoxide
+DB04173	fructose
+DB04224	oleic acid
+DB04231	water
+DB04282	fludeoxyglucose f-18
+DB04299	fumaric acid
+DB04335	inosine
+DB04349	propylene glycol
+DB04397	water
+DB04414	water
+DB04455	betaine
+DB04483	fludeoxyglucose f-18
+DB04494	water
+DB04540	cholesterol
+DB04564	gluconolactone
+DB04572	thiotepa
+DB04573	estriol
+DB04574	estrone sodium sulfate
+DB04574	estropipate
+DB04630	aldosterone
+DB04650	biotin
+DB04660	choline alfoscerate
+DB04665	coumarin
+DB04703	hesperidin
+DB04729	gentamicin
+DB04729	gentamicin sulfate
+DB04789	levomefolate calcium
+DB04789	levomefolic acid
+DB04815	clioquinol
+DB04824	phenolphthalein
+DB04835	maraviroc
+DB04837	chlophedianol
+DB04837	chlophedianol hydrochloride
+DB04844	tetrabenazine
+DB04845	ixabepilone
+DB04854	febuxostat
+DB04855	dronedarone
+DB04861	nebivolol
+DB04861	nebivolol hydrochloride
+DB04865	omacetaxine mepesuccinate
+DB04868	nilotinib
+DB04871	lorcaserin
+DB04874	ammonia n-13
+DB04874	hydrochloric acid
+DB04890	bepotastine
+DB04890	bepotastine besilate
+DB04896	levomilnacipran
+DB04896	levomilnacipran hydrochloride
+DB04896	milnacipran
+DB04896	milnacipran hydrochloride
+DB04908	flibanserin
+DB04911	oritavancin
+DB04912	hydrochloric acid
+DB04920	clevidipine
+DB04930	permethrin
+DB04938	ospemifene
+DB04946	iloperidone
+DB04948	lofexidine
+DB04948	lofexidine hydrochloride
+DB04951	pirfenidone
+DB04953	ezogabine
+DB04996	acetic acid
+DB04996	ammonia n-13
+DB04996	hydrochloric acid
+DB05013	ingenol mebutate
+DB05015	belinostat
+DB05039	indacaterol
+DB05039	indacaterol maleate
+DB05088	sulfur
+DB05109	trabectedin
+DB05219	crisaborole
+DB05239	cobimetinib
+DB05239	cobimetinib fumarate
+DB05245	silver
+DB05245	silver sulfadiazine
+DB05246	methsuximide
+DB05271	rotigotine
+DB05289	flurbiprofen
+DB05289	flurbiprofen sodium
+DB05294	vandetanib
+DB05296	acetic acid
+DB05316	pimavanserin
+DB05316	pimavanserin tartrate
+DB05351	dexlansoprazole
+DB05351	lansoprazole
+DB05382	iodine
+DB05389	oxygen
+DB05389	water
+DB05428	acetic acid
+DB05461	hydrochloric acid
+DB05461	water
+DB05476	hydrochloric acid
+DB05541	brivaracetam
+DB05607	fumaric acid
+DB05630	water
+DB05642	hydrochloric acid
+DB05642	water
+DB05667	ketoconazole
+DB05676	apremilast
+DB05790	hydrochloric acid
+DB05792	hydrochloric acid
+DB05812	abiraterone
+DB05837	hydrochloric acid
+DB05956	hydrochloric acid
+DB05990	obeticholic acid
+DB05993	hydrochloric acid
+DB06016	cariprazine
+DB06082	hydrochloric acid
+DB06151	acetylcysteine
+DB06176	romidepsin
+DB06196	icatibant
+DB06196	icatibant acetate
+DB06201	rufinamide
+DB06203	alogliptin
+DB06203	alogliptin benzoate
+DB06204	tapentadol
+DB06204	tapentadol hydrochloride
+DB06206	sugammadex
+DB06206	sugammadex sodium
+DB06207	silodosin
+DB06209	prasugrel
+DB06209	prasugrel hydrochloride
+DB06210	eltrombopag
+DB06210	eltrombopag olamine
+DB06211	doripenem
+DB06212	tolvaptan
+DB06213	regadenoson
+DB06216	asenapine
+DB06216	asenapine maleate
+DB06216	fumaric acid
+DB06218	lacosamide
+DB06228	rivaroxaban
+DB06230	nalmefene
+DB06230	nalmefene hydrochloride
+DB06237	avanafil
+DB06243	eflornithine
+DB06243	eflornithine hydrochloride
+DB06253	tromethamine
+DB06261	hexaminolevulinate hydrochloride
+DB06274	alvimopan
+DB06282	cetirizine
+DB06282	cetirizine hydrochloride
+DB06282	levocetirizine
+DB06282	levocetirizine dihydrochloride
+DB06287	temsirolimus
+DB06292	dapagliflozin
+DB06292	dapagliflozin propanediol
+DB06335	saxagliptin hydrochloride
+DB06401	bazedoxifene
+DB06401	bazedoxifene acetate
+DB06402	telavancin
+DB06402	telavancin hydrochloride
+DB06403	ambrisentan
+DB06410	doxercalciferol
+DB06412	oxymetholone
+DB06413	armodafinil
+DB06413	modafinil
+DB06414	etravirine
+DB06441	cangrelor
+DB06523	ribavirin
+DB06535	etilevodopa
+DB06589	pazopanib
+DB06589	pazopanib hydrochloride
+DB06590	ceftaroline fosamil
+DB06595	midostaurin
+DB06603	panobinostat
+DB06603	panobinostat lactate
+DB06605	apixaban
+DB06608	tafenoquine
+DB06614	peramivir
+DB06616	bosutinib
+DB06616	bosutinib monohydrate
+DB06626	axitinib
+DB06636	isavuconazonium
+DB06636	isavuconazonium sulfate
+DB06637	dalfampridine
+DB06654	safinamide
+DB06654	safinamide mesylate
+DB06659	hydrochloric acid
+DB06663	pasireotide
+DB06678	mirtazapine
+DB06684	vilazodone
+DB06684	vilazodone hydrochloride
+DB06689	ethanolamine oleate
+DB06689	monoethanolamine
+DB06689	oleic acid
+DB06690	nitrous oxide
+DB06691	pyrilamine
+DB06691	pyrilamine maleate
+DB06694	xylometazoline
+DB06694	xylometazoline hydrochloride
+DB06695	dabigatran etexilate
+DB06695	dabigatran etexilate mesylate
+DB06697	artemether
+DB06699	degarelix
+DB06700	desvenlafaxine
+DB06700	desvenlafaxine succinate
+DB06701	dexmethylphenidate
+DB06701	dexmethylphenidate hydrochloride
+DB06701	methylphenidate
+DB06701	methylphenidate hydrochloride
+DB06702	fesoterodine
+DB06702	fesoterodine fumarate
+DB06704	iobenguane sulfate i-123
+DB06707	levonordefrin
+DB06708	lumefantrine
+DB06709	methacholine chloride
+DB06710	methyltestosterone
+DB06711	naphazoline
+DB06711	naphazoline hydrochloride
+DB06713	norelgestromin
+DB06714	propylhexedrine
+DB06715	potassium iodide
+DB06717	fosaprepitant
+DB06717	fosaprepitant dimeglumine
+DB06723	aluminum hydroxide
+DB06723	water
+DB06724	calcium carbonate
+DB06735	clomiphene
+DB06735	clomiphene citrate
+DB06736	aceclofenac
+DB06756	betaine
+DB06764	tetrahydrozoline
+DB06764	tetrahydrozoline hydrochloride
+DB06766	alcaftadine
+DB06767	ammonia n-13
+DB06767	ammonium chloride
+DB06767	hydrochloric acid
+DB06768	ammonia n-13
+DB06768	ammonium lactate
+DB06769	bendamustine
+DB06769	bendamustine hydrochloride
+DB06770	benzyl alcohol
+DB06771	besifloxacin
+DB06772	cabazitaxel
+DB06774	capsaicin
+DB06775	carglumic acid
+DB06777	chenodiol
+DB06777	ursodiol
+DB06778	copper
+DB06778	cupric sulfate
+DB06778	sulfuric acid
+DB06781	difluprednate
+DB06782	dimercaprol
+DB06785	ganirelix acetate
+DB06786	halcinonide
+DB06788	acetic acid
+DB06788	histrelin
+DB06788	histrelin acetate
+DB06789	hydroxyprogesterone caproate
+DB06791	lanreotide
+DB06791	lanreotide acetate
+DB06793	propoxyphene
+DB06793	propoxyphene hydrochloride
+DB06793	propoxyphene napsylate
+DB06794	lodoxamide
+DB06794	lodoxamide tromethamine
+DB06795	mafenide
+DB06795	mafenide acetate
+DB06799	methenamine
+DB06800	methylnaltrexone bromide
+DB06802	nepafenac
+DB06804	nonoxynol-9
+DB06809	plerixafor
+DB06811	polidocanol
+DB06813	pralatrexate
+DB06817	raltegravir
+DB06817	raltegravir potassium
+DB06819	sodium phenylbutyrate
+DB06820	sulconazole
+DB06820	sulconazole nitrate
+DB06823	tiopronin
+DB06824	trientine
+DB06825	triptorelin
+DB06825	triptorelin pamoate
+DB06987	atenolol
+DB07129	mexiletine
+DB07129	mexiletine hydrochloride
+DB07465	saxagliptin hydrochloride
+DB07467	indapamide
+DB07565	chloramphenicol sodium succinate
+DB07701	donepezil
+DB07701	donepezil hydrochloride
+DB07702	estriol
+DB07705	econazole
+DB07705	econazole nitrate
+DB07768	testosterone
+DB08046	chlorthalidone
+DB08167	methylene blue
+DB08439	parecoxib
+DB08439	parecoxib sodium
+DB08472	fluoxetine
+DB08496	warfarin
+DB08496	warfarin sodium
+DB08544	fluoxetine
+DB08604	triclosan
+DB08797	salicylamide
+DB08799	antazoline
+DB08799	antazoline hydrochloride
+DB08804	nandrolone decanoate
+DB08815	lurasidone
+DB08815	lurasidone hydrochloride
+DB08816	ticagrelor
+DB08819	tafluprost
+DB08820	ivacaftor
+DB08822	azilsartan kamedoxomil
+DB08823	spinosad
+DB08824	ioflupane i-123
+DB08826	deferiprone
+DB08827	lomitapide
+DB08827	lomitapide mesylate
+DB08828	vismodegib
+DB08842	acetylcarnitine
+DB08858	ammonia n-13
+DB08858	hydrochloric acid
+DB08864	rilpivirine
+DB08864	rilpivirine hydrochloride
+DB08865	crizotinib
+DB08867	ulipristal
+DB08868	fingolimod
+DB08868	fingolimod hydrochloride
+DB08871	eribulin
+DB08871	eribulin mesylate
+DB08872	gabapentin enacarbil
+DB08874	fidaxomicin
+DB08875	cabozantinib
+DB08875	cabozantinib s-malate
+DB08877	ruxolitinib
+DB08880	teriflunomide
+DB08881	vemurafenib
+DB08882	linagliptin
+DB08883	perampanel
+DB08887	icosapent ethyl
+DB08887	omega-3-acid ethyl esters
+DB08889	carfilzomib
+DB08890	linaclotide
+DB08891	baclofen
+DB08893	mirabegron
+DB08895	tofacitinib
+DB08895	tofacitinib citrate
+DB08896	regorafenib
+DB08897	aclidinium bromide
+DB08899	enzalutamide
+DB08901	ponatinib
+DB08901	ponatinib hydrochloride
+DB08903	bedaquiline
+DB08903	bedaquiline fumarate
+DB08906	fluticasone furoate
+DB08907	canagliflozin
+DB08908	dimethyl fumarate
+DB08909	glycerol phenylbutyrate
+DB08910	pomalidomide
+DB08911	trametinib
+DB08911	trametinib dimethyl sulfoxide
+DB08912	dabrafenib
+DB08912	dabrafenib mesylate
+DB08913	hydrochloric acid
+DB08913	radium ra-223 dichloride
+DB08916	afatinib
+DB08918	levomilnacipran
+DB08918	levomilnacipran hydrochloride
+DB08918	milnacipran
+DB08918	milnacipran hydrochloride
+DB08930	dolutegravir
+DB08930	dolutegravir sodium
+DB08931	riociguat
+DB08932	macitentan
+DB08933	luliconazole
+DB08934	sofosbuvir
+DB08936	chlorcyclizine
+DB08936	chlorcyclizine hydrochloride
+DB08938	magaldrate
+DB08938	sulfuric acid
+DB08938	water
+DB08941	isoxsuprine
+DB08941	isoxsuprine hydrochloride
+DB08947	iopamidol
+DB08949	inositol niacinate
+DB09001	phenobarbital
+DB09001	propylhexedrine
+DB09009	articaine
+DB09009	articaine hydrochloride
+DB09020	bisacodyl
+DB09026	aliskiren
+DB09026	aliskiren hemifumarate
+DB09027	ledipasvir
+DB09030	vorapaxar
+DB09030	vorapaxar sulfate
+DB09031	miltefosine
+DB09034	suvorexant
+DB09038	empagliflozin
+DB09039	eliglustat
+DB09040	efinaconazole
+DB09041	tavaborole
+DB09042	tedizolid phosphate
+DB09049	naloxegol
+DB09049	naloxegol oxalate
+DB09050	ceftolozane
+DB09050	ceftolozane sulfate
+DB09053	ibrutinib
+DB09054	idelalisib
+DB09060	avibactam
+DB09060	avibactam sodium
+DB09061	cannabidiol
+DB09063	ceritinib
+DB09065	cobicistat
+DB09068	vortioxetine
+DB09068	vortioxetine hydrobromide
+DB09071	tasimelteon
+DB09072	sodium oxybate
+DB09073	palbociclib
+DB09074	olaparib
+DB09075	edoxaban
+DB09075	edoxaban tosylate
+DB09076	umeclidinium
+DB09076	umeclidinium bromide
+DB09078	lenvatinib
+DB09080	olodaterol
+DB09080	olodaterol hydrochloride
+DB09082	vilanterol
+DB09082	vilanterol trifenatate
+DB09083	ivabradine
+DB09083	ivabradine hydrochloride
+DB09085	tetracaine
+DB09085	tetracaine hydrochloride
+DB09086	eugenol
+DB09087	sulfuric acid
+DB09094	podofilox
+DB09096	benzoyl peroxide
+DB09101	elvitegravir
+DB09102	daclatasvir
+DB09102	daclatasvir dihydrochloride
+DB09104	magnesium hydroxide
+DB09104	water
+DB09110	mesna
+DB09115	iodoquinol
+DB09118	stiripentol
+DB09119	eslicarbazepine acetate
+DB09120	capsaicin
+DB09123	dienogest
+DB09128	brexpiprazole
+DB09129	hydrochloric acid
+DB09131	copper
+DB09131	cupric chloride
+DB09131	hydrochloric acid
+DB09133	iothalamate meglumine
+DB09133	iothalamate sodium
+DB09133	iothalamate sodium i-125
+DB09134	ioversol
+DB09136	isosulfan blue
+DB09137	mebrofenin
+DB09138	medronic acid
+DB09138	water
+DB09140	oxygen
+DB09142	sincalide
+DB09143	sonidegib phosphate
+DB09144	uridine triacetate
+DB09145	water
+DB09146	sucrose
+DB09146	water
+DB09148	florbetaben f-18
+DB09149	florbetapir f-18
+DB09151	flutemetamol f-18
+DB09152	nitrogen
+DB09153	hydrochloric acid
+DB09153	sodium chloride
+DB09155	helium
+DB09156	iopromide
+DB09157	carbon dioxide
+DB09158	trypan blue
+DB09160	tetrofosmin
+DB09160	water
+DB09164	disofenin
+DB09183	dasabuvir
+DB09213	ibuprofen
+DB09214	ketoprofen
+DB09237	amlodipine
+DB09241	hydrochloric acid
+DB09241	methylene blue
+DB09268	sodium picosulfate
+DB09270	ubidecarenone
+DB09272	eluxadoline
+DB09277	choline c-11
+DB09277	choline chloride
+DB09277	hydrochloric acid
+DB09280	lumacaftor
+DB09281	magnesium trisilicate
+DB09291	rolapitant
+DB09291	rolapitant hydrochloride
+DB09292	sacubitril
+DB09296	ombitasvir
+DB09297	paritaprevir
+DB09299	tenofovir alafenamide
+DB09299	tenofovir alafenamide fumarate
+DB09314	water
+DB09315	xenon
+DB09315	xenon xe-133
+DB09316	hydrochloric acid
+DB09320	penicillin g benzathine
+DB09320	penicillin g potassium
+DB09320	penicillin g procaine
+DB09320	penicillin g sodium
+DB09320	procaine
+DB09320	procaine hydrochloride
+DB09322	sulfuric acid
+DB09324	sulbactam
+DB09324	sulbactam sodium
+DB09325	sodium fluoride
+DB09325	sodium fluoride f-18
+DB09326	ammonia n-13
+DB09330	osimertinib
+DB09338	water
+DB09343	tipiracil
+DB09343	tipiracil hydrochloride
+DB09345	pramoxine
+DB09345	pramoxine hydrochloride
+DB09348	propiolactone
+DB09350	piperonyl butoxide
+DB09351	betaxolol
+DB09351	betaxolol hydrochloride
+DB09352	hydroxyamphetamine hydrobromide
+DB09357	dexpanthenol
+DB09357	panthenol
+DB09372	tannic acid
+DB09374	indocyanine green
+DB09389	levonorgestrel
+DB09389	norgestrel
+DB09394	phosphoric acid
+DB09395	acetic acid
+DB09395	sodium acetate
+DB09400	selenomethionine
+DB09401	isosorbide
+DB09407	hydrochloric acid
+DB09409	acetic acid
+DB09409	magnesium acetate tetrahydrate
+DB09409	water
+DB09413	phosphoric acid
+DB09413	potassium phosphate, monobasic
+DB09414	phosphoric acid
+DB09421	protirelin
+DB09425	pentetic acid
+DB09449	phosphoric acid
+DB09449	sodium phosphate, monobasic, monohydrate
+DB09459	tartaric acid
+DB09460	sodium carbonate
+DB09462	glycerin
+DB09472	sulfuric acid
+DB09473	oxyquinoline
+DB09477	enalaprilat
+DB09479	rubidium chloride rb-82
+DB09481	magnesium carbonate
+DB09483	potassium lactate
+DB09484	sodium monofluorophosphate
+DB09488	acrivastine
+DB09490	hydrochloric acid
+DB09494	cetyl alcohol
+DB09495	avobenzone
+DB09496	octinoxate
+DB09498	hydrochloric acid
+DB09498	strontium chloride sr-89
+DB09501	ammonia n-13
+DB09510	urea
+DB09510	urea c-13
+DB09513	urea
+DB09513	urea c-13
+DB09517	sucrose
+DB09526	hydroquinone
+DB09534	ecamsule
+DB09543	methyl salicylate
+DB09546	iobenguane sulfate i-123
+DB09546	sulfuric acid
+DB09552	thonzonium bromide
+DB09555	chlorpheniramine
+DB09555	chlorpheniramine maleate
+DB09555	dexchlorpheniramine
+DB09555	dexchlorpheniramine maleate
+DB09555	fumaric acid
+DB09570	ixazomib
+DB09571	levmetamfetamine
+DB09571	methamphetamine
+DB09571	methamphetamine hydrochloride
+DB11056	hydrochloric acid
+DB11071	phenyl salicylate
+DB11073	cetylpyridinium
+DB11079	salicylic acid
+DB11079	trolamine
+DB11079	trolamine salicylate
+DB11080	silver
+DB11080	silver nitrate
+DB11081	hydrochloric acid
+DB11085	resorcinol
+DB11090	potassium nitrate
+DB11091	hydrogen peroxide
+DB11093	calcium citrate
+DB11096	meradimate
+DB11098	potassium bicarbonate
+DB11100	allantoin
+DB11104	sulfur hexafluoride
+DB11107	potassium bitartrate
+DB11107	tartaric acid
+DB11110	magnesium citrate
+DB11115	ensulizole
+DB11117	undecylenic acid
+DB11119	sodium iodide
+DB11119	sodium iodide i-123
+DB11119	sodium iodide i-131
+DB11121	chloroxylenol
+DB11125	benzethonium
+DB11125	benzethonium chloride
+DB11126	calcium gluconate
+DB11127	selenious acid
+DB11128	ammonia n-13
+DB11128	water
+DB11129	hydrogen peroxide
+DB11129	urea
+DB11129	urea c-13
+DB11134	copper
+DB11142	selenomethionine
+DB11145	oxyquinoline
+DB11148	butamben
+DB11150	barium sulfate
+DB11150	sulfuric acid
+DB11151	sodium hydroxide
+DB11151	water
+DB11153	potassium hydroxide
+DB11153	water
+DB11155	triclocarban
+DB11156	pyrantel
+DB11156	pyrantel pamoate
+DB11157	anthralin
+DB11160	phenyltoloxamine
+DB11160	phenyltoloxamine citrate
+DB11171	sulfuric acid
+DB11171	water
+DB11180	tetrofosmin
+DB11181	homatropine
+DB11181	homatropine hydrobromide
+DB11185	sulisobenzone
+DB11189	glycine
+DB11195	xylitol
+DB11197	glycine
+DB11200	glycine
+DB11200	hydrochloric acid
+DB11200	water
+DB11205	hydrochloric acid
+DB11205	water
+DB11206	bemotrizinol
+DB11207	amiloxate
+DB11210	glycine
+DB11219	enzacamene
+DB11233	silver
+DB11235	thonzylamine
+DB11235	thonzylamine hydrochloride
+DB11239	sulfuric acid
+DB11246	copper
+DB11248	zinc gluconate
+DB11250	glyceryl monostearate
+DB11254	hexylresorcinol
+DB11256	levomefolate calcium
+DB11256	levomefolic acid
+DB11262	bisoctrizole
+DB11278	methylephedrine
+DB11282	diethyltoluamide
+DB11290	stearic acid
+DB11309	sulfuric acid
+DB11315	methscopolamine
+DB11315	methscopolamine bromide
+DB11324	nonivamide
+DB11326	boric acid
+DB11327	dipyrithione
+DB11344	levomenthol
+DB11348	phosphoric acid
+DB11359	guaiacol
+DB11362	selexipag
+DB11363	alectinib
+DB11363	alectinib hydrochloride
+DB11387	chloroform
+DB11417	hydrogen peroxide
+DB11420	squalane
+DB11428	dexmedetomidine
+DB11428	dexmedetomidine hydrochloride
+DB11525	ammonia n-13
+DB11560	lesinurad
+DB11570	padimate o
+DB11573	hydrochloric acid
+DB11573	water
+DB11574	elbasvir
+DB11575	grazoprevir
+DB11577	indigotindisulfonate sodium
+DB11581	venetoclax
+DB11588	carbon monoxide
+DB11594	domiphen
+DB11594	domiphen bromide
+DB11596	leucovorin calcium
+DB11596	levoleucovorin calcium
+DB11644	tafamidis
+DB11644	tafamidis meglumine
+DB11660	latanoprostene bunod
+DB11691	naldemedine
+DB11691	naldemedine tosylate
+DB11703	acalabrutinib
+DB11712	tezacaftor
+DB11718	encorafenib
+DB11730	ribociclib
+DB11749	praziquantel
+DB11760	talazoparib
+DB11760	talazoparib tosylate
+DB11793	niraparib
+DB11799	bictegravir
+DB11799	bictegravir sodium
+DB11807	mecamylamine
+DB11807	mecamylamine hydrochloride
+DB11817	baricitinib
+DB11823	ketamine
+DB11823	ketamine hydrochloride
+DB11827	ertugliflozin
+DB11828	neratinib
+DB11828	neratinib maleate
+DB11842	angiotensin ii
+DB11868	levetiracetam
+DB11915	valbenazine
+DB11921	deflazacort
+DB11933	riboprine
+DB11943	delafloxacin
+DB11943	delafloxacin meglumine
+DB11952	duvelisib
+DB11963	dacomitinib
+DB11967	binimetinib
+DB11979	elagolix
+DB11979	elagolix sodium
+DB11989	benznidazole
+DB11995	avatrombopag
+DB11995	avatrombopag maleate
+DB12001	abemaciclib
+DB12010	fostamatinib
+DB12020	tecovirimat
+DB12035	sarecycline
+DB12035	sarecycline hydrochloride
+DB12039	cianidanol
+DB12070	letermovir
+DB12095	telotristat ethyl
+DB12098	baclofen
+DB12107	vaborbactam
+DB12161	tetrabenazine
+DB12243	edaravone
+DB12267	brigatinib
+DB12301	doravirine
+DB12329	eravacycline
+DB12329	eravacycline dihydrochloride
+DB12332	rucaparib
+DB12332	rucaparib camsylate
+DB12364	betrixaban
+DB12418	saccharin
+DB12425	liothyronine sodium
+DB12455	omadacycline
+DB12483	copanlisib
+DB12582	piperine
+DB12615	plazomicin
+DB12650	selegiline
+DB12650	selegiline hydrochloride
+DB12751	malic acid
+DB12802	podofilox
+DB12834	secnidazole
+DB12924	ozenoxacin
+DB12940	helium
+DB13074	macimorelin
+DB13125	lusutrombopag
+DB13139	albuterol
+DB13142	erythromycin lactobionate
+DB13145	ammonia n-13
+DB13153	levomenol
+DB13156	inosine
+DB13163	water
+DB13170	plecanatide
+DB13178	inositol
+DB13207	arginine
+DB13207	arginine glutamate
+DB13207	glutamic acid
+DB13209	water
+DB13220	aspartic acid
+DB13231	calcium lactate
+DB13236	water
+DB13250	hydrochloric acid
+DB13251	octopamine
+DB13257	ferrous sulfate
+DB13257	sulfuric acid
+DB13259	ethyl chloride
+DB13261	water
+DB13264	penicillin v
+DB13264	penicillin v potassium
+DB13322	water
+DB13326	hydrochloric acid
+DB13344	hydrochloric acid
+DB13345	dihydroergocristine
+DB13366	hydrochloric acid
+DB13387	water
+DB13392	water
+DB13402	chloral hydrate
+DB13423	water
+DB13443	atenolol
+DB13453	xenon
+DB13453	xenon xe-133
+DB13509	aspirin
+DB13515	methadone
+DB13515	methadone hydrochloride
+DB13547	mafenide
+DB13547	mafenide acetate
+DB13569	ferrous chloride
+DB13569	hydrochloric acid
+DB13576	niacin
+DB13595	water
+DB13598	ether
+DB13612	aspirin
+DB13612	urea
+DB13612	urea c-13
+DB13615	water
+DB13620	potassium gluconate
+DB13626	glycine
+DB13626	water
+DB13636	diphenhydramine
+DB13639	tartaric acid
+DB13650	tromethamine
+DB13650	water
+DB13654	water
+DB13679	chlorpheniramine
+DB13679	chlorpheniramine maleate
+DB13679	dexchlorpheniramine
+DB13679	dexchlorpheniramine maleate
+DB13705	hydrochloric acid
+DB13707	sodium tartrate
+DB13707	tartaric acid
+DB13716	dibutyl phthalate
+DB13718	hydroquinine
+DB13732	meglumine
+DB13732	water
+DB13743	water
+DB13747	trolamine
+DB13748	arginine
+DB13749	magnesium gluconate
+DB13749	water
+DB13751	glycyrrhizinate dipotassium
+DB13762	rabeprazole
+DB13765	hydrochloric acid
+DB13780	water
+DB13786	magnesium orotate
+DB13786	orotic acid
+DB13789	acetic acid
+DB13789	tartaric acid
+DB13812	theophylline
+DB13818	water
+DB13830	copper
+DB13831	potassium permanganate
+DB13860	salicylic acid
+DB13862	phosphoric acid
+DB13868	adefovir
+DB13874	enasidenib
+DB13874	enasidenib mesylate
+DB13878	pibrentasvir
+DB13879	glecaprevir
+DB13882	methyl nicotinate
+DB13909	gallic acid
+DB13909	water
+DB13910	valproic acid
+DB13919	candesartan
+DB13943	testosterone cypionate
+DB13944	testosterone enanthate
+DB13946	testosterone undecanoate
+DB13953	estradiol benzoate
+DB13954	estradiol cypionate
+DB13956	estradiol valerate
+DB13969	hydrochloric acid
+DB13972	methionine
+DB13972	racemethionine
+DB13987	hydrochloric acid
+DB13987	strontium chloride sr-89
+DB13996	acetic acid
+DB13996	magnesium acetate
+DB14006	choline salicylate
+DB14006	salicylic acid
+DB14007	pentetic acid
+DB14018	pamabrom
+DB14019	fosnetupitant
+DB14033	sulfisoxazole acetyl
+DB14055	warfarin
+DB14055	warfarin sodium
+DB14063	verapamil
+DB14074	icaridin
+DB14077	magnesium stearate
+DB14077	stearic acid
+DB14078	medronic acid
+DB14080	acetylcysteine
+DB14086	cianidanol
+DB14089	succimer
+DB14093	testosterone
+DB14116	water
+DB14126	tenofovir
+DB14128	nadide
+DB14132	dimenhydrinate
+DB14134	octyldodecanol
+DB14138	water
+DB14149	glyceryl monostearate
+DB14149	stearic acid
+DB14177	propylparaben
+DB14177	propylparaben sodium
+DB14180	sulfuric acid
+DB14185	aripiprazole lauroxil
+DB14206	hydrochloric acid
+DB14212	methylparaben
+DB14212	methylparaben sodium
+DB14218	telotristat
+DB14479	acetylcysteine
+DB14481	phosphoric acid
+DB14481	water
+DB14482	ascorbic acid
+DB14482	sodium ascorbate
+DB14483	ascorbic acid
+DB14483	calcium ascorbate
+DB14484	ascorbic acid
+DB14485	ascorbic acid
+DB14486	ascorbic acid
+DB14486	niacinamide
+DB14489	succinic acid
+DB14490	ascorbic acid
+DB14491	fumaric acid
+DB14493	glycine
+DB14494	water
+DB14497	hydrochloric acid
+DB14497	water
+DB14498	acetic acid
+DB14498	potassium acetate
+DB14501	glycine
+DB14501	sulfuric acid
+DB14502	phosphoric acid
+DB14502	sodium phosphate
+DB14505	sodium borate
+DB14506	water
+DB14508	succinic acid
+DB14509	lithium carbonate
+DB14511	acetic acid
+DB14512	mometasone furoate
+DB14517	aluminum phosphate
+DB14517	phosphoric acid
+DB14518	acetic acid
+DB14518	aluminum acetate
+DB14520	water
+DB14521	silver
+DB14522	water
+DB14523	phosphoric acid
+DB14529	niacin
+DB14530	sulfuric acid
+DB14533	hydrochloric acid
+DB14533	zinc chloride
+DB14539	hydrocortisone acetate
+DB14540	hydrocortisone butyrate
+DB14542	hydrocortisone sodium phosphate
+DB14543	hydrocortisone probutate
+DB14544	hydrocortisone valerate
+DB14545	hydrocortisone sodium succinate
+DB14546	sulfuric acid
+DB14547	hydrochloric acid
+DB14550	hydrochloric acid
+DB14552	copper
+DB14553	sodium borate
+DB14568	ivosidenib
+DB14569	tedizolid
+DB14571	radium ra-223 dichloride
+DB14573	phosphoric acid
+DB14575	eslicarbazepine
+DB14596	loteprednol etabonate
+DB14599	copper
+DB14622	phosphoric acid
+DB14622	water
+DB14631	prednisolone sodium phosphate
+DB14644	methylprednisolone sodium succinate
+DB14649	betamethasone acetate
+DB14669	betamethasone sodium phosphate
+DB14669	dexamethasone sodium phosphate
+DB14674	estramustine phosphate
+DB14674	estramustine phosphate sodium
+DB14682	levorphanol tartrate
+DB14683	copper
+DB14695	water
+DB14704	xylitol
+DB14726	dabigatran
+DB14750	doxepin
+DB14750	doxepin hydrochloride
+DB14756	tartaric acid
+DB14872	miglustat
+DB15058	flutemetamol f-18
+DB15108	tipranavir
+DB15111	acetic acid
+DB15130	pramipexole
+DB15130	pramipexole dihydrochloride
+DB15141	ivacaftor
+DB15198	methadone
+DB15198	methadone hydrochloride
+DB15300	hydroquinine
+DB15350	inositol
+DB15410	propafenone
+DB15410	propafenone hydrochloride
+DB15414	sorafenib
+DB15479	hydrochloric acid
+DB15479	water
+DB15533	sulfuric acid
+DB15535	hydrochloric acid
+DB15536	ferric chloride
+DB15536	hydrochloric acid
+DB15555	malic acid
+DB15556	glycine
+DB15566	prednisolone acetate
+DB15587	water

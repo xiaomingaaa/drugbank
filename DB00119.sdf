@@ -1,0 +1,128 @@
+
+  Mrv0541 02231214272D          
+
+  6  5  0  0  0  0            999 V2000
+    2.0928    0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5217    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8072   -1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5217    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2361   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8072   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  2  4  2  0  0  0  0
+  3  6  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00119
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H4O3/c1-2(4)3(5)6/h1H3,(H,5,6)
+
+> <INCHI_KEY>
+LCTONWCANYUPML-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H4O3
+
+> <MOLECULAR_WEIGHT>
+88.0621
+
+> <EXACT_MASS>
+88.016043994
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+7.3105058729791725
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-oxopropanoic acid
+
+> <ALOGPS_LOGP>
+-0.38
+
+> <JCHEM_LOGP>
+0.06587395333333337
+
+> <ALOGPS_LOGS>
+0.18
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.93012330309767
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-9.583170381128017
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.37
+
+> <JCHEM_REFRACTIVITY>
+17.9897
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.34e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+pyruvic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00119
+
+> <SECONDARY_ACCESSION_NUMBERS>
+NUTR00050; DB11194
+
+> <DRUG_GROUPS>
+approved; investigational; nutraceutical
+
+> <GENERIC_NAME>
+Pyruvic acid
+
+> <SYNONYMS>
+2-ketopropionic acid; 2-oxopropanoic acid; 2-Oxopropansäure; 2-Oxopropionsäure; a-Ketopropionic acid; Acetylformic acid; acide pyruvique; alpha-ketopropionic acid; Brenztraubensäure; BTS; Pyroracemic acid; α-ketopropionic acid; α-Oxopropionsäure
+
+> <PRODUCTS>
+Rejuvesol
+
+> <SALTS>
+Calcium pyruvate; Sodium pyruvate
+
+$$$$
