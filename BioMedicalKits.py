@@ -1,7 +1,7 @@
 '''
 @Author: Ma Tengfei
 @Date: 2020-03-16 21:33:33
-@LastEditTime: 2020-03-19 23:15:24
+@LastEditTime: 2020-03-20 20:33:35
 @LastEditors: Please set LastEditors
 @Description: In User Settings Edit
 @FilePath: \data process\httputil.py
@@ -42,8 +42,6 @@ def SaveSDF(drugid, sdf_path, log: logger):
 @param {type} drug_list,待获取的药物的列表
 @return: 
 '''
-
-
 def SaveDrugInfo(drug_list, save_path, filename, log: logger, file_type='excel'):
     file_path = '{}/{}'.format(save_path, filename)
     drugs_info = list()
@@ -526,6 +524,30 @@ uniprot id到gene id的映射
 '''
 def uniprotid_to_geneid(uniprot_list,savepath,filename,savetype='csv'):
     UniprotToOtherDB(uniprot_list, savepath, filename, tran='P_ENTREZGENEID', savetype=savetype)
+
+'''
+@description: 从drug info文件中获取字典型数据
+@param {type} drug info文件
+@return: 
+'''
+def get_drugs_info(filename):
+    import pandas as pd
+    db=dict()
+    
+    df=pd.read_csv(filename)
+    data=df.to_dict(orient='records')
+    for d in data:
+        temp=dict()
+        temp['name']=d['name']
+        temp['type']=d['type']
+        temp['description']=d['description']
+        temp['indication']=d['indication']
+        temp['groups']=d['groups']
+        temp['smiles']=d['smiles']
+        db[d['drugbank_id'].strip()]=temp
+    return db
+
+
 if __name__ == "__main__":
     log = logger('logs')
     # SaveSDF('DB001','./',log)
