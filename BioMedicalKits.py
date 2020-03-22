@@ -1,7 +1,7 @@
 '''
 @Author: Ma Tengfei
 @Date: 2020-03-16 21:33:33
-@LastEditTime: 2020-03-20 20:42:46
+@LastEditTime: 2020-03-22 20:58:08
 @LastEditors: Please set LastEditors
 @Description: In User Settings Edit
 @FilePath: \data process\httputil.py
@@ -195,6 +195,7 @@ def parse_drugs_drugbank(xmlfile, savepath, filename, savetype='excel'):
         row['name'] = drug.findtext(ns + "name")
         row['description'] = drug.findtext(ns + "description")
         row['indication'] = drug.findtext(ns+"indication")
+        row['unii'] = drug.findtext(ns+'unii')
         row['cas-num'] = drug.findtext(ns+'cas-number')
         row['groups'] = [group.text for group in
                          drug.findall("{ns}groups/{ns}group".format(ns=ns))]
@@ -599,6 +600,73 @@ def generate_dti_examples(fastafile,druginfo_file,save_path,filename,savetype='c
             pairs.append(temp)
     print('----ending----')
 
+### 更新映射数据的代码
+def drugbank_to_others(src_compound_id,src_id,save_path,filename,savetype='tsv'):
+    import json
+    import pandas as pd
+    filename='{}/{}'.format(save_path,filename)
+    # 此列表会更新：https://www.ebi.ac.uk/unichem/ucquery/listSources
+    id_to_source = {
+        0: None,
+        1: 'chembl',
+        2: 'drugbank',
+        3: 'pdb',
+        4: 'iuphar',
+        5: 'pubchem_dotf',
+        6: 'kegg_ligand',
+        7: 'chebi',
+        8: 'nih_ncc',
+        9: 'zinc',
+        10: 'emolecules',
+        11: 'ibm',
+        12: 'atlas',
+        13: 'ibm_patents',
+        14: 'fdasrs',
+        15: 'surechembl',
+        17: 'pharmgkb',
+        18: 'hmdb',
+        20: 'selleck',
+        21: 'pubchem_tpharma',
+        22: 'pubchem',
+        23: 'mcule',
+        24: 'nmrshiftdb2',
+        25: 'lincs',
+        26: 'actor',
+        27: 'recon',
+        28: 'molport',
+        29: 'nikkaji',
+        31: 'bindingdb',
+        32: 'comptox',
+        33:	'lipidmaps',
+        34:	'drugcentral',
+        35:	'carotenoiddb',
+        36:	'metabolights',
+        37:	'brenda',
+        38:	'rhea',
+        39:	'chemicalbook',
+        40:	'dailymed',
+        41:	'swisslipids',
+        45:	'dailymed_new',
+        46:	'clinicaltrials'
+    }
+    url='https://www.ebi.ac.uk/unichem/rest/mapping/{}/{}'.format(src_compound_id,src_id)
+    data=get_data_by_url(url)
+    data=json.loads(data)
+    map_list=list()
+    
+    for line in data:
+        temp=dict()
+        temp[id_to_source[src_compound_id]]=line[str(src_compound_id)]
+        temp[id_to_source[src_id]]=line[str(src_id)]
+        map_list.append(temp)
+    data=pd.DataFrame(map_list)
+    if savetype=='tsv':
+        data.to_csv(filename,sep='\t',index=False)
+    elif savetype=='excel':
+        data.to_excel(filename,index=False)
+    else:
+        data.to_csv(filename,index=False)
+    
 if __name__ == "__main__":
     log = logger('logs')
     # SaveSDF('DB001','./',log)
