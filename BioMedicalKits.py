@@ -1,7 +1,7 @@
 '''
 @Author: Ma Tengfei
 @Date: 2020-03-16 21:33:33
-@LastEditTime: 2020-03-22 20:58:08
+@LastEditTime: 2020-04-07 10:34:12
 @LastEditors: Please set LastEditors
 @Description: In User Settings Edit
 @FilePath: \data process\httputil.py
@@ -325,200 +325,7 @@ def parse_drug_protein_from_drugbank(xmlfile, savepath, filename, savetype='exce
     elif savetype=='csv':
         protein_df.to_csv(save_file,index=False)
 
-'''
-将drugbank中数据转换到其他种类的数据库映射
-'''
-def drug_map_to(drugfile, savepath, filename, log: logger):
-    import io
-    import requests
-    import gzip
-    import csv
-    import os
-    import json
-    import collections
-    import numpy as np
-    save_file = '{}/{}'.format(savepath+'/mapping', filename)
-    if 'xlsx' in drugfile:
-        df = pd.read_excel(drugfile)
-    elif 'csv' in drugfile:
-        df = pd.read_csv(drugfile)
-    drugbank = list(df.to_dict(orient='records'))
-    drugbank_ids = [drug['drugbank_id'] for drug in drugbank]
-    assert len(drugbank_ids) == len(set(drugbank_ids))
-    # src_ids = requests.get("https://www.ebi.ac.uk/unichem/rest/src_ids/")
-    # src_ids=src_ids.json()
-    # 此列表会更新：https://www.ebi.ac.uk/unichem/ucquery/listSources
-    id_to_source = {
-        0: None,
-        1: 'chembl',
-        2: 'drugbank',
-        3: 'pdb',
-        4: 'iuphar',
-        5: 'pubchem_dotf',
-        6: 'kegg_ligand',
-        7: 'chebi',
-        8: 'nih_ncc',
-        9: 'zinc',
-        10: 'emolecules',
-        11: 'ibm',
-        12: 'atlas',
-        13: 'ibm_patents',
-        14: 'fdasrs',
-        15: 'surechembl',
-        17: 'pharmgkb',
-        18: 'hmdb',
-        20: 'selleck',
-        21: 'pubchem_tpharma',
-        22: 'pubchem',
-        23: 'mcule',
-        24: 'nmrshiftdb2',
-        25: 'lincs',
-        26: 'actor',
-        27: 'recon',
-        28: 'molport',
-        29: 'nikkaji',
-        31: 'bindingdb',
-        32: 'comptox',
-        33:	'lipidmaps',
-        34:	'drugcentral',
-        35:	'carotenoiddb',
-        36:	'metabolights',
-        37:	'brenda',
-        38:	'rhea',
-        39:	'chemicalbook',
-        40:	'dailymed',
-        41:	'swisslipids',
-        45:	'dailymed_new',
-        46:	'clinicaltrials'
-    }
 
-    source_to_id = {v: k for k, v in id_to_source.items()}
-
-    def connectivity_query(search_url, target=None, B=0, C=0, D=0, E=0, F=0, G=0):
-        """
-        https://www.ebi.ac.uk/unichem/info/widesearchInfo
-        """
-        url = '{search_url}/{A}/{B}/{C}/{D}/{E}/{F}/{G}/{H}'.format(
-            search_url=search_url,
-            A=source_to_id[target],  # Sources
-            B=B,  # Pattern
-            C=C,  # Component Mapping
-            D=D,  # Frequency Block
-            E=E,  # InChI Length Block
-            F=F,  # UniChem Labels
-            G=G,  # Assignment Status
-            H=1,  # Data Structure
-        )
-
-        try:
-            response = get_data_by_url(url)
-            response = json.loads(response)
-        except Exception as e:
-            print('error:', e)
-            log_info = dict()
-            log_info['url'] = url
-            log_info['info'] = repr(e)
-            log.Log_append('log_map_error.json', log_info)
-            return
-        if 'error' in response:
-            print('UniChem error:', response['error'])
-            return
-        for assignment in response.values():
-            header = assignment.pop(0)
-            for match in assignment:
-                yield collections.OrderedDict(zip(header, match))
-
-    def key_search(inchikey, **kwargs):
-        """Search by InChIKeys."""
-        if inchikey.startswith('InChIKey='):
-            prefix, inchikey = inchikey.split('=', 1)
-        base_url = 'https://www.ebi.ac.uk/unichem/rest/key_search'
-        search_url = '{base_url}/{StandardInChIKey}'.format(
-            base_url=base_url,
-            StandardInChIKey=inchikey)
-        return connectivity_query(search_url, **kwargs)
-
-    def cpd_search(source, compound_id, **kwargs):
-        """Search by source-specific identifiers."""
-        base_url = 'https://www.ebi.ac.uk/unichem/rest/cpd_search'
-        search_url = '{base_url}/{src_compound_id}/{src_id}'.format(
-            base_url=base_url,
-            src_compound_id=compound_id,
-            src_id=source_to_id[source])
-        return connectivity_query(search_url, **kwargs)
-
-    # 写入文件
-    mapping_path = save_file
-    mapping_file = gzip.open(mapping_path, 'wb')
-    mapping_buffer = io.TextIOWrapper(mapping_file, line_buffering=True)
-    mapping_fields = ['drugbank_id', 'drugbank_name', 'src_id', 'source_name', 'src_compound_id',
-                      'C', 'Query_InChIKey', 'CpdId_InChIKey', 'Full_Query_InChI', 'Full_CpdId_InChI',
-                      'Matching_Query_InChI', 'Matching_CpdId_InChI', 'b', 'i', 'm', 'p', 's', 't']
-    mapping_writer = csv.DictWriter(
-        mapping_buffer, delimiter='\t', fieldnames=mapping_fields, extrasaction='ignore')
-    mapping_writer.writeheader()
-
-    count_path = os.path.join(savepath+'/mapping', 'mapping-counts.tsv')
-    count_file = open(count_path, 'w')
-    source_names = [id_to_source[i] for i in sorted(set(id_to_source) - {0})]
-    count_fields = ['drugbank_id', 'drugbank_name'] + source_names
-    count_writer = csv.DictWriter(
-        count_file, delimiter='\t', fieldnames=count_fields, restval=0)
-    count_writer.writeheader()
-    for drug in drugbank:
-        drugbank_id = drug['drugbank_id']
-        drugbank_name = drug['name']
-        print(drugbank_id, drugbank_name)
-        query_matches = list(cpd_search('drugbank', drugbank_id, C=4))
-        if not query_matches:
-            # if isinstance(drug['inchi'], float) or isinstance(drug['inchikey'], float):
-            #     continue
-            # if drug['inchi'].startswith('InChI=1S'):
-            #     query_matches = list(key_search(drug['inchikey'], C=4))
-            # else:  # non-standard InChI
-            #     print('non-standard InChI: cannot query compound')
-            #     continue
-            print('no')
-            continue
-        for match in query_matches:
-            match['drugbank_id'] = drugbank_id
-            match['drugbank_name'] = drugbank_name
-            match['source_name'] = id_to_source[int(match['src_id'])]
-            mapping_writer.writerow(match)
-
-        source_to_matches = dict()
-        for match in query_matches:
-            match_set = source_to_matches.setdefault(
-                match['source_name'], set())
-            match_set.add(match['src_compound_id'])
-        count = {k: len(v) for k, v in source_to_matches.items()}
-        count = collections.defaultdict(int, count)
-        count['drugbank_id'] = drugbank_id
-        count['drugbank_name'] = drugbank_name
-
-        count_writer.writerow(count)
-    #将映射写入到特定文件
-    mapping_file.close()
-    count_file.close()
-    print('process specific map file!!!')
-    mapping_file = gzip.open(mapping_path, 'rb')
-    mapping_buffer = io.TextIOWrapper(mapping_file)
-    reader = csv.DictReader(mapping_buffer, delimiter='\t')
-    source_to_pairs = dict()
-    for row in reader:
-        pair = row['drugbank_id'], row['src_compound_id']
-        pairs = source_to_pairs.setdefault(row['source_name'], set())
-        pairs.add(pair)
-    mapping_file.close()
-
-    del source_to_pairs['drugbank']
-    for source, pairs in source_to_pairs.items():
-        path = os.path.join(savepath, 'mapping', '{}.tsv'.format(source))
-        write_file = open(path, 'w')
-        writer = csv.writer(write_file, delimiter='\t')
-        writer.writerow(['drugbank_id', '{}_id'.format(source)])
-        writer.writerows(sorted(pairs))
-        write_file.close()
 
 '''
 uniprot id到gene id的映射
@@ -600,8 +407,12 @@ def generate_dti_examples(fastafile,druginfo_file,save_path,filename,savetype='c
             pairs.append(temp)
     print('----ending----')
 
-### 更新映射数据的代码
-def drugbank_to_others(src_compound_id,src_id,save_path,filename,savetype='tsv'):
+'''
+生物数据库之间的映射
+src_compound_id : 源数据库，比如，chebi->7
+src_id: 目标数据库 如 drugbank->2
+'''
+def database_map_by_id(src_compound_id,src_id,save_path,filename,savetype='tsv'):
     import json
     import pandas as pd
     filename='{}/{}'.format(save_path,filename)
@@ -674,9 +485,9 @@ if __name__ == "__main__":
     # SaveDrugInfo(['DB00001','DB06605'],'test','drug_list.xlsx',log,file_type='excel')
 
     # UniprotToOtherDB(['P40925','Q07817'],'./','p_gene.csv')
-
+    database_map_by_id(2,7,'BioDb/drugbank', 'drugbank_chebi.tsv')
     #parse_drugs_drugbank('BioDb/drugbank/fulldatabase.xml.zip','BioDb/drugbank','drugs_info.csv',savetype='csv')
-
-    parse_drug_protein_from_drugbank('BioDb/drugbank/fulldatabase.xml.zip','BioDb/drugbank','drug_proteins.csv',savetype='csv')
+    get_drugs_info('BioDb/drugbank/drugs_info.csv')
+    #parse_drug_protein_from_drugbank('BioDb/drugbank/fulldatabase.xml.zip','BioDb/drugbank','drug_proteins.csv',savetype='csv')
     # drug_map_to('BioDb/drugbank/drugs_info.csv',
     #             'BioDb/drugbank', 'mapping.tsv.gz', log)
