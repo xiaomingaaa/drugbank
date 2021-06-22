@@ -1,8 +1,8 @@
 '''
 @Author: Ma Tengfei
 @Date: 2020-03-16 21:33:33
-@LastEditTime: 2020-04-07 10:34:12
-@LastEditors: Please set LastEditors
+LastEditTime: 2021-06-21 21:12:39
+LastEditors: Please set LastEditors
 @Description: In User Settings Edit
 @FilePath: \data process\httputil.py
 '''
@@ -485,9 +485,9 @@ if __name__ == "__main__":
     # SaveDrugInfo(['DB00001','DB06605'],'test','drug_list.xlsx',log,file_type='excel')
 
     # UniprotToOtherDB(['P40925','Q07817'],'./','p_gene.csv')
-    database_map_by_id(2,7,'BioDb/drugbank', 'drugbank_chebi.tsv')
-    #parse_drugs_drugbank('BioDb/drugbank/fulldatabase.xml.zip','BioDb/drugbank','drugs_info.csv',savetype='csv')
-    get_drugs_info('BioDb/drugbank/drugs_info.csv')
+    #database_map_by_id(2,7,'BioDb/drugbank', 'drugbank_chebi.tsv')
+    parse_drugs_drugbank('BioDb/drugbank/full database.xml.zip','BioDb/drugbank','drugs_info_5_1_8.csv',savetype='csv')
+    #get_drugs_info('BioDb/drugbank/drugs_info.csv')
     #parse_drug_protein_from_drugbank('BioDb/drugbank/fulldatabase.xml.zip','BioDb/drugbank','drug_proteins.csv',savetype='csv')
     # drug_map_to('BioDb/drugbank/drugs_info.csv',
     #             'BioDb/drugbank', 'mapping.tsv.gz', log)

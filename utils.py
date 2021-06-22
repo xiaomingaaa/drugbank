@@ -1,8 +1,8 @@
 '''
 @Author: your name
 @Date: 2020-03-17 10:53:55
-@LastEditTime: 2020-03-19 10:06:45
-@LastEditors: Please set LastEditors
+LastEditTime: 2021-06-22 14:29:45
+LastEditors: Please set LastEditors
 @Description: common toolkit include logger, debugger
 '''
 import json
@@ -12,6 +12,7 @@ from urllib import request
 import ssl
 import random
 import requests
+import pandas as pd
 
 ssl._create_default_https_context=ssl._create_unverified_context
 proxy_list = [
@@ -65,3 +66,14 @@ def get_data_by_url(url):
     opener = request.build_opener(httpproxy_handler)
     data=request.urlopen(url,timeout=10).read().decode('utf-8') 
     return data     
+
+def get_drug4atc(filepath):
+    data=pd.read_csv(filepath,header=0)
+    ### drop缺失值
+    data=pd.DataFrame(data,columns=['drugbank_id','name','atc_codes']).dropna(axis=0, how='any', thresh=None, subset=None, inplace=False)
+    data.to_csv('drug4atc.tsv',sep='\t',index=False)
+
+if __name__=='__main__':
+    get_drug4atc('BioDb/drugbank/drugs_info_5_1_8.csv')
+
+        
